@@ -1,0 +1,2554 @@
+[
+  {
+    "image_id": 923,
+    "category": "car",
+    "word": "cars",
+    "n_gt_patches": 210,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.69207000732422,
+      "hidden_base_norm": 11.709675788879395,
+      "logit_delta_norm": 87.24620819091797
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.15625,
+      "hidden_base_norm": 11.709675788879395,
+      "logit_delta_norm": 101.79035949707031
+    }
+  },
+  {
+    "image_id": 6397,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 532,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.135740280151367,
+      "hidden_base_norm": 13.083930969238281,
+      "logit_delta_norm": 82.46417999267578
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 25.164283752441406,
+      "hidden_base_norm": 13.083930969238281,
+      "logit_delta_norm": 100.03005981445312
+    }
+  },
+  {
+    "image_id": 9679,
+    "category": "skateboard",
+    "word": "skateboard",
+    "n_gt_patches": 324,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.848045349121094,
+      "hidden_base_norm": 5.923133373260498,
+      "logit_delta_norm": 73.17362213134766
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.130687713623047,
+      "hidden_base_norm": 5.923133373260498,
+      "logit_delta_norm": 74.51177215576172
+    }
+  },
+  {
+    "image_id": 9679,
+    "category": "book",
+    "word": "book",
+    "n_gt_patches": 324,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "pair",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.650209426879883,
+      "hidden_base_norm": 11.27631664276123,
+      "logit_delta_norm": 80.92866516113281
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "book",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.207731246948242,
+      "hidden_base_norm": 11.27631664276123,
+      "logit_delta_norm": 83.27136993408203
+    }
+  },
+  {
+    "image_id": 14821,
+    "category": "bottle",
+    "word": "bottle",
+    "n_gt_patches": 512,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "le",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.678462982177734,
+      "hidden_base_norm": 9.479096412658691,
+      "logit_delta_norm": 88.87498474121094
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "le",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.146867752075195,
+      "hidden_base_norm": 9.479096412658691,
+      "logit_delta_norm": 74.6697769165039
+    }
+  },
+  {
+    "image_id": 16451,
+    "category": "umbrella",
+    "word": "umbrellas",
+    "n_gt_patches": 82,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "as",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.946399688720703,
+      "hidden_base_norm": 3.892301321029663,
+      "logit_delta_norm": 131.9480438232422
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "as",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.6103458404541,
+      "hidden_base_norm": 3.892301321029663,
+      "logit_delta_norm": 103.85651397705078
+    }
+  },
+  {
+    "image_id": 22816,
+    "category": "chair",
+    "word": "stool",
+    "n_gt_patches": 236,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ool",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.400407791137695,
+      "hidden_base_norm": 10.089507102966309,
+      "logit_delta_norm": 77.93231201171875
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ool",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.64545440673828,
+      "hidden_base_norm": 10.089507102966309,
+      "logit_delta_norm": 114.07319641113281
+    }
+  },
+  {
+    "image_id": 27297,
+    "category": "bear",
+    "word": "bears",
+    "n_gt_patches": 562,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ars",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.46722412109375,
+      "hidden_base_norm": 10.404589653015137,
+      "logit_delta_norm": 94.19001770019531
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ars",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.32440757751465,
+      "hidden_base_norm": 10.404589653015137,
+      "logit_delta_norm": 145.2019805908203
+    }
+  },
+  {
+    "image_id": 34114,
+    "category": "bottle",
+    "word": "bottles",
+    "n_gt_patches": 82,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "les",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.537532806396484,
+      "hidden_base_norm": 9.845695495605469,
+      "logit_delta_norm": 93.42511749267578
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "les",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.704166412353516,
+      "hidden_base_norm": 9.845695495605469,
+      "logit_delta_norm": 86.4230728149414
+    }
+  },
+  {
+    "image_id": 35887,
+    "category": "bowl",
+    "word": "container",
+    "n_gt_patches": 58,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "container",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 25.38863182067871,
+      "hidden_base_norm": 11.670297622680664,
+      "logit_delta_norm": 104.57044219970703
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "container",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.197044372558594,
+      "hidden_base_norm": 11.670297622680664,
+      "logit_delta_norm": 100.83216857910156
+    }
+  },
+  {
+    "image_id": 44309,
+    "category": "person",
+    "word": "passengers",
+    "n_gt_patches": 112,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "passengers",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.59745216369629,
+      "hidden_base_norm": 11.58877182006836,
+      "logit_delta_norm": 136.3267364501953
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "passengers",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.985334396362305,
+      "hidden_base_norm": 11.58877182006836,
+      "logit_delta_norm": 157.06361389160156
+    }
+  },
+  {
+    "image_id": 49445,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 42,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.527597427368164,
+      "hidden_base_norm": 11.107804298400879,
+      "logit_delta_norm": 71.06135559082031
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.322975158691406,
+      "hidden_base_norm": 11.107804298400879,
+      "logit_delta_norm": 74.3065185546875
+    }
+  },
+  {
+    "image_id": 49445,
+    "category": "knife",
+    "word": "knife",
+    "n_gt_patches": 42,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ife",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.215993881225586,
+      "hidden_base_norm": 8.768649101257324,
+      "logit_delta_norm": 87.1890869140625
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ife",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.480575561523438,
+      "hidden_base_norm": 8.768649101257324,
+      "logit_delta_norm": 87.32518768310547
+    }
+  },
+  {
+    "image_id": 49445,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 42,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.527597427368164,
+      "hidden_base_norm": 11.107804298400879,
+      "logit_delta_norm": 71.06135559082031
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.2966251373291,
+      "hidden_base_norm": 11.107804298400879,
+      "logit_delta_norm": 75.34695434570312
+    }
+  },
+  {
+    "image_id": 79357,
+    "category": "bus",
+    "word": "bus",
+    "n_gt_patches": 36,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "motor",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 25.27139663696289,
+      "hidden_base_norm": 12.327461242675781,
+      "logit_delta_norm": 72.53900146484375
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "motor",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.85976219177246,
+      "hidden_base_norm": 12.327461242675781,
+      "logit_delta_norm": 65.51538848876953
+    }
+  },
+  {
+    "image_id": 79357,
+    "category": "motorcycle",
+    "word": "motorcycle",
+    "n_gt_patches": 36,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "cycle",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.16221809387207,
+      "hidden_base_norm": 9.301247596740723,
+      "logit_delta_norm": 53.56820297241211
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "cycle",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.99151039123535,
+      "hidden_base_norm": 9.301247596740723,
+      "logit_delta_norm": 49.800472259521484
+    }
+  },
+  {
+    "image_id": 90707,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 527,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.999591827392578,
+      "hidden_base_norm": 8.036823272705078,
+      "logit_delta_norm": 61.16606140136719
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.95728874206543,
+      "hidden_base_norm": 8.036823272705078,
+      "logit_delta_norm": 69.81422424316406
+    }
+  },
+  {
+    "image_id": 97159,
+    "category": "microwave",
+    "word": "microwave",
+    "n_gt_patches": 63,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ave",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.799055099487305,
+      "hidden_base_norm": 7.36436128616333,
+      "logit_delta_norm": 167.57186889648438
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ave",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.998342514038086,
+      "hidden_base_norm": 7.36436128616333,
+      "logit_delta_norm": 108.05513000488281
+    }
+  },
+  {
+    "image_id": 97159,
+    "category": "toaster",
+    "word": "toaster",
+    "n_gt_patches": 63,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "aster",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.04947280883789,
+      "hidden_base_norm": 8.47944450378418,
+      "logit_delta_norm": 91.81173706054688
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "aster",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.68720817565918,
+      "hidden_base_norm": 8.47944450378418,
+      "logit_delta_norm": 114.48826599121094
+    }
+  },
+  {
+    "image_id": 98029,
+    "category": "sandwich",
+    "word": "sandwiches",
+    "n_gt_patches": 444,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "es",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.641088485717773,
+      "hidden_base_norm": 7.410012722015381,
+      "logit_delta_norm": 75.16217041015625
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "es",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.928367614746094,
+      "hidden_base_norm": 7.410012722015381,
+      "logit_delta_norm": 89.50536346435547
+    }
+  },
+  {
+    "image_id": 103863,
+    "category": "sink",
+    "word": "sink",
+    "n_gt_patches": 88,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "sink",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 25.404104232788086,
+      "hidden_base_norm": 16.600116729736328,
+      "logit_delta_norm": 85.35645294189453
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "sink",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.367027282714844,
+      "hidden_base_norm": 16.600116729736328,
+      "logit_delta_norm": 87.11904907226562
+    }
+  },
+  {
+    "image_id": 105349,
+    "category": "traffic light",
+    "word": "traffic light",
+    "n_gt_patches": 306,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "light",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.629222869873047,
+      "hidden_base_norm": 6.689811706542969,
+      "logit_delta_norm": 54.68543243408203
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "light",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.387481689453125,
+      "hidden_base_norm": 6.689811706542969,
+      "logit_delta_norm": 63.50434112548828
+    }
+  },
+  {
+    "image_id": 119876,
+    "category": "backpack",
+    "word": "backpack",
+    "n_gt_patches": 522,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "pack",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.393980026245117,
+      "hidden_base_norm": 6.565983295440674,
+      "logit_delta_norm": 68.30474090576172
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "pack",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.53838348388672,
+      "hidden_base_norm": 6.565983295440674,
+      "logit_delta_norm": 67.8995132446289
+    }
+  },
+  {
+    "image_id": 120164,
+    "category": "clock",
+    "word": "clock",
+    "n_gt_patches": 504,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "clock",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.715871810913086,
+      "hidden_base_norm": 15.12038803100586,
+      "logit_delta_norm": 81.79411315917969
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "clock",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.312068939208984,
+      "hidden_base_norm": 15.12038803100586,
+      "logit_delta_norm": 78.5545654296875
+    }
+  },
+  {
+    "image_id": 120164,
+    "category": "clock",
+    "word": "clock",
+    "n_gt_patches": 504,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "clock",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.715871810913086,
+      "hidden_base_norm": 15.12038803100586,
+      "logit_delta_norm": 81.79411315917969
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "clock",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.312068939208984,
+      "hidden_base_norm": 15.12038803100586,
+      "logit_delta_norm": 78.5545654296875
+    }
+  },
+  {
+    "image_id": 129520,
+    "category": "person",
+    "word": "people",
+    "n_gt_patches": 90,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.59128761291504,
+      "hidden_base_norm": 13.388808250427246,
+      "logit_delta_norm": 61.4320182800293
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.33572769165039,
+      "hidden_base_norm": 13.388808250427246,
+      "logit_delta_norm": 66.97491455078125
+    }
+  },
+  {
+    "image_id": 133556,
+    "category": "baseball glove",
+    "word": "baseball glove",
+    "n_gt_patches": 245,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ve",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.13251304626465,
+      "hidden_base_norm": 9.150064468383789,
+      "logit_delta_norm": 74.30147552490234
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ve",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.498516082763672,
+      "hidden_base_norm": 9.150064468383789,
+      "logit_delta_norm": 78.57331848144531
+    }
+  },
+  {
+    "image_id": 140017,
+    "category": "broccoli",
+    "word": "broccoli",
+    "n_gt_patches": 359,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "oli",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.428678512573242,
+      "hidden_base_norm": 8.282718658447266,
+      "logit_delta_norm": 164.7337188720703
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "oli",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.071123123168945,
+      "hidden_base_norm": 8.282718658447266,
+      "logit_delta_norm": 158.3563232421875
+    }
+  },
+  {
+    "image_id": 143901,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 444,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.622690200805664,
+      "hidden_base_norm": 6.963570594787598,
+      "logit_delta_norm": 78.2211685180664
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.872377395629883,
+      "hidden_base_norm": 6.963570594787598,
+      "logit_delta_norm": 85.47496795654297
+    }
+  },
+  {
+    "image_id": 152214,
+    "category": "orange",
+    "word": "orange",
+    "n_gt_patches": 504,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 25.397960662841797,
+      "hidden_base_norm": 19.17593002319336,
+      "logit_delta_norm": 71.12391662597656
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 25.816608428955078,
+      "hidden_base_norm": 19.17593002319336,
+      "logit_delta_norm": 70.71614074707031
+    }
+  },
+  {
+    "image_id": 157767,
+    "category": "donut",
+    "word": "donuts",
+    "n_gt_patches": 352,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "uts",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.351455688476562,
+      "hidden_base_norm": 9.418547630310059,
+      "logit_delta_norm": 73.89823913574219
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "uts",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.926084518432617,
+      "hidden_base_norm": 9.418547630310059,
+      "logit_delta_norm": 146.29562377929688
+    }
+  },
+  {
+    "image_id": 167271,
+    "category": "remote",
+    "word": "remote",
+    "n_gt_patches": 564,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.06145668029785,
+      "hidden_base_norm": 13.429800033569336,
+      "logit_delta_norm": 75.88571166992188
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.029163360595703,
+      "hidden_base_norm": 13.429800033569336,
+      "logit_delta_norm": 80.03307342529297
+    }
+  },
+  {
+    "image_id": 167337,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "n_gt_patches": 125,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.222871780395508,
+      "hidden_base_norm": 9.985041618347168,
+      "logit_delta_norm": 60.308204650878906
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.32585906982422,
+      "hidden_base_norm": 9.985041618347168,
+      "logit_delta_norm": 62.46757888793945
+    }
+  },
+  {
+    "image_id": 170393,
+    "category": "person",
+    "word": "people",
+    "n_gt_patches": 264,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.465015411376953,
+      "hidden_base_norm": 13.985873222351074,
+      "logit_delta_norm": 60.38579177856445
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.180103302001953,
+      "hidden_base_norm": 13.985873222351074,
+      "logit_delta_norm": 66.99734497070312
+    }
+  },
+  {
+    "image_id": 173514,
+    "category": "snowboard",
+    "word": "snowboard",
+    "n_gt_patches": 55,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.079856872558594,
+      "hidden_base_norm": 9.186962127685547,
+      "logit_delta_norm": 73.26459503173828
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.259403228759766,
+      "hidden_base_norm": 9.186962127685547,
+      "logit_delta_norm": 70.60447692871094
+    }
+  },
+  {
+    "image_id": 173533,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 391,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.037887573242188,
+      "hidden_base_norm": 7.106985569000244,
+      "logit_delta_norm": 71.30779266357422
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.025596618652344,
+      "hidden_base_norm": 7.106985569000244,
+      "logit_delta_norm": 79.62654113769531
+    }
+  },
+  {
+    "image_id": 187495,
+    "category": "person",
+    "word": "drivers",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "drivers",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 25.313720703125,
+      "hidden_base_norm": 9.525197982788086,
+      "logit_delta_norm": 71.97246551513672
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "drivers",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.35198974609375,
+      "hidden_base_norm": 9.525197982788086,
+      "logit_delta_norm": 70.7310791015625
+    }
+  },
+  {
+    "image_id": 190738,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "n_gt_patches": 325,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.512882232666016,
+      "hidden_base_norm": 10.292560577392578,
+      "logit_delta_norm": 80.49048614501953
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.687532424926758,
+      "hidden_base_norm": 10.292560577392578,
+      "logit_delta_norm": 77.53379821777344
+    }
+  },
+  {
+    "image_id": 192007,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "n_gt_patches": 128,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.758970260620117,
+      "hidden_base_norm": 10.129002571105957,
+      "logit_delta_norm": 61.419769287109375
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.8328800201416,
+      "hidden_base_norm": 10.129002571105957,
+      "logit_delta_norm": 61.62715148925781
+    }
+  },
+  {
+    "image_id": 194956,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 350,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.800220489501953,
+      "hidden_base_norm": 13.919083595275879,
+      "logit_delta_norm": 72.75048828125
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.331134796142578,
+      "hidden_base_norm": 13.919083595275879,
+      "logit_delta_norm": 71.24250793457031
+    }
+  },
+  {
+    "image_id": 200421,
+    "category": "cake",
+    "word": "cake",
+    "n_gt_patches": 529,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ake",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.560331344604492,
+      "hidden_base_norm": 12.654777526855469,
+      "logit_delta_norm": 130.22259521484375
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ake",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.309722900390625,
+      "hidden_base_norm": 12.654777526855469,
+      "logit_delta_norm": 140.72186279296875
+    }
+  },
+  {
+    "image_id": 202658,
+    "category": "suitcase",
+    "word": "suitcase",
+    "n_gt_patches": 373,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "case",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.883220672607422,
+      "hidden_base_norm": 7.404317378997803,
+      "logit_delta_norm": 110.0759048461914
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "case",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.88549041748047,
+      "hidden_base_norm": 7.404317378997803,
+      "logit_delta_norm": 109.4520034790039
+    }
+  },
+  {
+    "image_id": 204650,
+    "category": "person",
+    "word": "people",
+    "n_gt_patches": 240,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.403730392456055,
+      "hidden_base_norm": 14.861367225646973,
+      "logit_delta_norm": 89.30786895751953
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.73049545288086,
+      "hidden_base_norm": 14.861367225646973,
+      "logit_delta_norm": 91.69902038574219
+    }
+  },
+  {
+    "image_id": 204767,
+    "category": "bowl",
+    "word": "bowl",
+    "n_gt_patches": 468,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "l",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.46044921875,
+      "hidden_base_norm": 8.59488582611084,
+      "logit_delta_norm": 156.25718688964844
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "l",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.165220260620117,
+      "hidden_base_norm": 8.59488582611084,
+      "logit_delta_norm": 165.6416015625
+    }
+  },
+  {
+    "image_id": 214604,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "n_gt_patches": 67,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.41864585876465,
+      "hidden_base_norm": 10.576449394226074,
+      "logit_delta_norm": 65.66383361816406
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.992637634277344,
+      "hidden_base_norm": 10.576449394226074,
+      "logit_delta_norm": 60.39441680908203
+    }
+  },
+  {
+    "image_id": 220446,
+    "category": "bowl",
+    "word": "bowl",
+    "n_gt_patches": 81,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "l",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 25.763498306274414,
+      "hidden_base_norm": 8.458401679992676,
+      "logit_delta_norm": 112.69226837158203
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "l",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.97186851501465,
+      "hidden_base_norm": 8.458401679992676,
+      "logit_delta_norm": 98.7024917602539
+    }
+  },
+  {
+    "image_id": 229270,
+    "category": "chair",
+    "word": "chair",
+    "n_gt_patches": 562,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.31877899169922,
+      "hidden_base_norm": 12.595848083496094,
+      "logit_delta_norm": 91.4561538696289
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 26.57322120666504,
+      "hidden_base_norm": 12.595848083496094,
+      "logit_delta_norm": 117.08293151855469
+    }
+  },
+  {
+    "image_id": 237669,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "n_gt_patches": 108,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.712406158447266,
+      "hidden_base_norm": 9.532093048095703,
+      "logit_delta_norm": 74.59294891357422
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.39056968688965,
+      "hidden_base_norm": 9.532093048095703,
+      "logit_delta_norm": 70.6669692993164
+    }
+  },
+  {
+    "image_id": 237669,
+    "category": "baseball glove",
+    "word": "baseball glove",
+    "n_gt_patches": 108,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ve",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.48345184326172,
+      "hidden_base_norm": 8.320582389831543,
+      "logit_delta_norm": 132.71994018554688
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ve",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.518152236938477,
+      "hidden_base_norm": 8.320582389831543,
+      "logit_delta_norm": 118.2083511352539
+    }
+  },
+  {
+    "image_id": 239492,
+    "category": "car",
+    "word": "cars",
+    "n_gt_patches": 301,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.615779876708984,
+      "hidden_base_norm": 15.325240135192871,
+      "logit_delta_norm": 100.33087921142578
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.425485610961914,
+      "hidden_base_norm": 15.325240135192871,
+      "logit_delta_norm": 113.40960693359375
+    }
+  },
+  {
+    "image_id": 241010,
+    "category": "car",
+    "word": "cars",
+    "n_gt_patches": 94,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.73480796813965,
+      "hidden_base_norm": 12.629022598266602,
+      "logit_delta_norm": 89.47915649414062
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.903701782226562,
+      "hidden_base_norm": 12.629022598266602,
+      "logit_delta_norm": 78.91464233398438
+    }
+  },
+  {
+    "image_id": 243896,
+    "category": "stop sign",
+    "word": "stop sign",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.888010025024414,
+      "hidden_base_norm": 10.533979415893555,
+      "logit_delta_norm": 75.77792358398438
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.686073303222656,
+      "hidden_base_norm": 10.533979415893555,
+      "logit_delta_norm": 76.80843353271484
+    }
+  },
+  {
+    "image_id": 243896,
+    "category": "stop sign",
+    "word": "stop sign",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.888010025024414,
+      "hidden_base_norm": 10.533979415893555,
+      "logit_delta_norm": 75.77792358398438
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.268449783325195,
+      "hidden_base_norm": 10.533979415893555,
+      "logit_delta_norm": 78.8287353515625
+    }
+  },
+  {
+    "image_id": 243896,
+    "category": "snowboard",
+    "word": "snowboard",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.82996368408203,
+      "hidden_base_norm": 10.339076042175293,
+      "logit_delta_norm": 81.24859619140625
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.360462188720703,
+      "hidden_base_norm": 10.339076042175293,
+      "logit_delta_norm": 72.59647369384766
+    }
+  },
+  {
+    "image_id": 265574,
+    "category": "sink",
+    "word": "sink",
+    "n_gt_patches": 112,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.052499771118164,
+      "hidden_base_norm": 13.621771812438965,
+      "logit_delta_norm": 92.11212158203125
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.66118049621582,
+      "hidden_base_norm": 13.621771812438965,
+      "logit_delta_norm": 99.86565399169922
+    }
+  },
+  {
+    "image_id": 279387,
+    "category": "cell phone",
+    "word": "telephone",
+    "n_gt_patches": 8,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "phone",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 31.446369171142578,
+      "hidden_base_norm": 7.263016223907471,
+      "logit_delta_norm": 161.23985290527344
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "phone",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.751846313476562,
+      "hidden_base_norm": 7.263016223907471,
+      "logit_delta_norm": 164.41302490234375
+    }
+  },
+  {
+    "image_id": 279387,
+    "category": "traffic light",
+    "word": "street light",
+    "n_gt_patches": 8,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "light",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 31.1583194732666,
+      "hidden_base_norm": 7.20841646194458,
+      "logit_delta_norm": 92.28304290771484
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "light",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.582225799560547,
+      "hidden_base_norm": 7.20841646194458,
+      "logit_delta_norm": 67.6671142578125
+    }
+  },
+  {
+    "image_id": 305060,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 428,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.780744552612305,
+      "hidden_base_norm": 6.7360711097717285,
+      "logit_delta_norm": 61.23857879638672
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.502893447875977,
+      "hidden_base_norm": 6.7360711097717285,
+      "logit_delta_norm": 66.56617736816406
+    }
+  },
+  {
+    "image_id": 308900,
+    "category": "baseball bat",
+    "word": "baseball bats",
+    "n_gt_patches": 48,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ats",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.84611701965332,
+      "hidden_base_norm": 10.022944450378418,
+      "logit_delta_norm": 86.4394302368164
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ats",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.18391990661621,
+      "hidden_base_norm": 10.022944450378418,
+      "logit_delta_norm": 71.83804321289062
+    }
+  },
+  {
+    "image_id": 310882,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "n_gt_patches": 194,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.810667037963867,
+      "hidden_base_norm": 10.779154777526855,
+      "logit_delta_norm": 63.06361389160156
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.548398971557617,
+      "hidden_base_norm": 10.779154777526855,
+      "logit_delta_norm": 62.377262115478516
+    }
+  },
+  {
+    "image_id": 318566,
+    "category": "cell phone",
+    "word": "cell phone",
+    "n_gt_patches": 170,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "phone",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.564828872680664,
+      "hidden_base_norm": 6.053397178649902,
+      "logit_delta_norm": 57.96185302734375
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "phone",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.132183074951172,
+      "hidden_base_norm": 6.053397178649902,
+      "logit_delta_norm": 69.16802978515625
+    }
+  },
+  {
+    "image_id": 324189,
+    "category": "bench",
+    "word": "bench",
+    "n_gt_patches": 105,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ch",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.388193130493164,
+      "hidden_base_norm": 8.861736297607422,
+      "logit_delta_norm": 90.50238800048828
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ch",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.45539093017578,
+      "hidden_base_norm": 8.861736297607422,
+      "logit_delta_norm": 70.82291412353516
+    }
+  },
+  {
+    "image_id": 324189,
+    "category": "bench",
+    "word": "bench",
+    "n_gt_patches": 105,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ch",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.388193130493164,
+      "hidden_base_norm": 8.861736297607422,
+      "logit_delta_norm": 90.50238800048828
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ch",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.89116668701172,
+      "hidden_base_norm": 8.861736297607422,
+      "logit_delta_norm": 73.53966522216797
+    }
+  },
+  {
+    "image_id": 325157,
+    "category": "tie",
+    "word": "ties",
+    "n_gt_patches": 342,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ies",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.19247055053711,
+      "hidden_base_norm": 8.2121000289917,
+      "logit_delta_norm": 102.02561950683594
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ies",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.459529876708984,
+      "hidden_base_norm": 8.2121000289917,
+      "logit_delta_norm": 113.18429565429688
+    }
+  },
+  {
+    "image_id": 326593,
+    "category": "horse",
+    "word": "horse",
+    "n_gt_patches": 506,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "horse",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.933977127075195,
+      "hidden_base_norm": 14.322182655334473,
+      "logit_delta_norm": 77.25041961669922
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "horse",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 27.37639617919922,
+      "hidden_base_norm": 14.322182655334473,
+      "logit_delta_norm": 110.6417236328125
+    }
+  },
+  {
+    "image_id": 326593,
+    "category": "horse",
+    "word": "horses",
+    "n_gt_patches": 506,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "st",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.288785934448242,
+      "hidden_base_norm": 14.641779899597168,
+      "logit_delta_norm": 74.5921630859375
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "horse",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 26.81085205078125,
+      "hidden_base_norm": 14.641779899597168,
+      "logit_delta_norm": 93.9822769165039
+    }
+  },
+  {
+    "image_id": 326593,
+    "category": "horse",
+    "word": "horse",
+    "n_gt_patches": 506,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "horse",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.933977127075195,
+      "hidden_base_norm": 14.322182655334473,
+      "logit_delta_norm": 77.25041961669922
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "horse",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 27.37639617919922,
+      "hidden_base_norm": 14.322182655334473,
+      "logit_delta_norm": 110.6417236328125
+    }
+  },
+  {
+    "image_id": 326593,
+    "category": "horse",
+    "word": "horse",
+    "n_gt_patches": 506,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "horse",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.933977127075195,
+      "hidden_base_norm": 14.322182655334473,
+      "logit_delta_norm": 77.25041961669922
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "horse",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 27.37639617919922,
+      "hidden_base_norm": 14.322182655334473,
+      "logit_delta_norm": 110.6417236328125
+    }
+  },
+  {
+    "image_id": 326593,
+    "category": "horse",
+    "word": "horse",
+    "n_gt_patches": 506,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "horse",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.933977127075195,
+      "hidden_base_norm": 14.322182655334473,
+      "logit_delta_norm": 77.25041961669922
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "horse",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 27.37639617919922,
+      "hidden_base_norm": 14.322182655334473,
+      "logit_delta_norm": 110.6417236328125
+    }
+  },
+  {
+    "image_id": 328110,
+    "category": "backpack",
+    "word": "backpack",
+    "n_gt_patches": 352,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "pack",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.38625144958496,
+      "hidden_base_norm": 6.070973873138428,
+      "logit_delta_norm": 82.4981460571289
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "pack",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.29341697692871,
+      "hidden_base_norm": 6.070973873138428,
+      "logit_delta_norm": 92.96421813964844
+    }
+  },
+  {
+    "image_id": 333630,
+    "category": "tie",
+    "word": "ties",
+    "n_gt_patches": 201,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ies",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.920177459716797,
+      "hidden_base_norm": 13.026161193847656,
+      "logit_delta_norm": 112.35057067871094
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ies",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.169208526611328,
+      "hidden_base_norm": 13.026161193847656,
+      "logit_delta_norm": 96.90213012695312
+    }
+  },
+  {
+    "image_id": 337843,
+    "category": "orange",
+    "word": "orange",
+    "n_gt_patches": 225,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.872236251831055,
+      "hidden_base_norm": 15.866363525390625,
+      "logit_delta_norm": 62.072898864746094
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.880563735961914,
+      "hidden_base_norm": 15.866363525390625,
+      "logit_delta_norm": 55.699588775634766
+    }
+  },
+  {
+    "image_id": 344003,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "n_gt_patches": 160,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.047664642333984,
+      "hidden_base_norm": 10.01190185546875,
+      "logit_delta_norm": 62.89702224731445
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.993988037109375,
+      "hidden_base_norm": 10.01190185546875,
+      "logit_delta_norm": 69.86917114257812
+    }
+  },
+  {
+    "image_id": 356400,
+    "category": "refrigerator",
+    "word": "refrigerator",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ator",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 28.340599060058594,
+      "hidden_base_norm": 7.2770490646362305,
+      "logit_delta_norm": 89.59127044677734
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ator",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.832595825195312,
+      "hidden_base_norm": 7.2770490646362305,
+      "logit_delta_norm": 78.11009216308594
+    }
+  },
+  {
+    "image_id": 359801,
+    "category": "chair",
+    "word": "chair",
+    "n_gt_patches": 450,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.249895095825195,
+      "hidden_base_norm": 10.914872169494629,
+      "logit_delta_norm": 108.7131576538086
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.639400482177734,
+      "hidden_base_norm": 10.914872169494629,
+      "logit_delta_norm": 107.30853271484375
+    }
+  },
+  {
+    "image_id": 359801,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 450,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.98951530456543,
+      "hidden_base_norm": 13.661015510559082,
+      "logit_delta_norm": 55.7215690612793
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.379314422607422,
+      "hidden_base_norm": 13.661015510559082,
+      "logit_delta_norm": 58.259151458740234
+    }
+  },
+  {
+    "image_id": 361750,
+    "category": "remote",
+    "word": "remote",
+    "n_gt_patches": 360,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.6765079498291,
+      "hidden_base_norm": 12.412997245788574,
+      "logit_delta_norm": 112.28543090820312
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.665088653564453,
+      "hidden_base_norm": 12.412997245788574,
+      "logit_delta_norm": 134.5352783203125
+    }
+  },
+  {
+    "image_id": 361750,
+    "category": "remote",
+    "word": "remote",
+    "n_gt_patches": 360,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.6765079498291,
+      "hidden_base_norm": 12.412997245788574,
+      "logit_delta_norm": 112.28543090820312
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.665088653564453,
+      "hidden_base_norm": 12.412997245788574,
+      "logit_delta_norm": 134.5352783203125
+    }
+  },
+  {
+    "image_id": 361947,
+    "category": "person",
+    "word": "passengers",
+    "n_gt_patches": 165,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "bus",
+      "grounded_replacement": true,
+      "hidden_delta_norm": 24.208341598510742,
+      "hidden_base_norm": 15.001688957214355,
+      "logit_delta_norm": 87.92449188232422
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "bus",
+      "grounded_replacement": true,
+      "hidden_delta_norm": 24.520814895629883,
+      "hidden_base_norm": 15.001688957214355,
+      "logit_delta_norm": 93.17658996582031
+    }
+  },
+  {
+    "image_id": 361947,
+    "category": "person",
+    "word": "people",
+    "n_gt_patches": 165,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.287681579589844,
+      "hidden_base_norm": 12.89217758178711,
+      "logit_delta_norm": 100.12205505371094
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.171213150024414,
+      "hidden_base_norm": 12.89217758178711,
+      "logit_delta_norm": 110.63885498046875
+    }
+  },
+  {
+    "image_id": 361947,
+    "category": "person",
+    "word": "passengers",
+    "n_gt_patches": 165,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "bus",
+      "grounded_replacement": true,
+      "hidden_delta_norm": 24.208341598510742,
+      "hidden_base_norm": 15.001688957214355,
+      "logit_delta_norm": 87.92449188232422
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "bus",
+      "grounded_replacement": true,
+      "hidden_delta_norm": 24.4610538482666,
+      "hidden_base_norm": 15.001688957214355,
+      "logit_delta_norm": 91.49217987060547
+    }
+  },
+  {
+    "image_id": 365724,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "n_gt_patches": 380,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.86631965637207,
+      "hidden_base_norm": 10.297102928161621,
+      "logit_delta_norm": 74.04804992675781
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.71317481994629,
+      "hidden_base_norm": 10.297102928161621,
+      "logit_delta_norm": 66.1365737915039
+    }
+  },
+  {
+    "image_id": 365724,
+    "category": "baseball glove",
+    "word": "baseball glove",
+    "n_gt_patches": 380,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ve",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.8106689453125,
+      "hidden_base_norm": 8.454774856567383,
+      "logit_delta_norm": 88.91919708251953
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ve",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.41646385192871,
+      "hidden_base_norm": 8.454774856567383,
+      "logit_delta_norm": 87.02208709716797
+    }
+  },
+  {
+    "image_id": 365822,
+    "category": "microwave",
+    "word": "microwave",
+    "n_gt_patches": 71,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ave",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.816362380981445,
+      "hidden_base_norm": 7.361043930053711,
+      "logit_delta_norm": 111.86138153076172
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ave",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.915428161621094,
+      "hidden_base_norm": 7.361043930053711,
+      "logit_delta_norm": 106.57279205322266
+    }
+  },
+  {
+    "image_id": 369122,
+    "category": "bottle",
+    "word": "bottles",
+    "n_gt_patches": 356,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "les",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.227901458740234,
+      "hidden_base_norm": 9.193255424499512,
+      "logit_delta_norm": 97.96294403076172
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "les",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.22311782836914,
+      "hidden_base_norm": 9.193255424499512,
+      "logit_delta_norm": 102.58697509765625
+    }
+  },
+  {
+    "image_id": 369122,
+    "category": "cup",
+    "word": "cups",
+    "n_gt_patches": 356,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ps",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.973037719726562,
+      "hidden_base_norm": 9.8935546875,
+      "logit_delta_norm": 89.1304702758789
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ps",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.977075576782227,
+      "hidden_base_norm": 9.8935546875,
+      "logit_delta_norm": 98.29772186279297
+    }
+  },
+  {
+    "image_id": 383703,
+    "category": "broccoli",
+    "word": "broccoli",
+    "n_gt_patches": 444,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "oli",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.06300163269043,
+      "hidden_base_norm": 9.871983528137207,
+      "logit_delta_norm": 87.2626724243164
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "oli",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.265897750854492,
+      "hidden_base_norm": 9.871983528137207,
+      "logit_delta_norm": 81.6711654663086
+    }
+  },
+  {
+    "image_id": 413626,
+    "category": "chair",
+    "word": "chairs",
+    "n_gt_patches": 193,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "airs",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.0688419342041,
+      "hidden_base_norm": 8.266170501708984,
+      "logit_delta_norm": 72.4229736328125
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "airs",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.06477165222168,
+      "hidden_base_norm": 8.266170501708984,
+      "logit_delta_norm": 80.31307983398438
+    }
+  },
+  {
+    "image_id": 413626,
+    "category": "chair",
+    "word": "chairs",
+    "n_gt_patches": 193,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "airs",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.0688419342041,
+      "hidden_base_norm": 8.266170501708984,
+      "logit_delta_norm": 72.4229736328125
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "airs",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.28040885925293,
+      "hidden_base_norm": 8.266170501708984,
+      "logit_delta_norm": 80.2146224975586
+    }
+  },
+  {
+    "image_id": 413685,
+    "category": "tie",
+    "word": "tie",
+    "n_gt_patches": 261,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "tie",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.156631469726562,
+      "hidden_base_norm": 17.77211570739746,
+      "logit_delta_norm": 92.22211456298828
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "tie",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.440670013427734,
+      "hidden_base_norm": 17.77211570739746,
+      "logit_delta_norm": 97.92045593261719
+    }
+  },
+  {
+    "image_id": 425004,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 258,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.281761169433594,
+      "hidden_base_norm": 12.471816062927246,
+      "logit_delta_norm": 79.29914093017578
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.999528884887695,
+      "hidden_base_norm": 12.471816062927246,
+      "logit_delta_norm": 86.6445541381836
+    }
+  },
+  {
+    "image_id": 425004,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 258,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.281761169433594,
+      "hidden_base_norm": 12.471816062927246,
+      "logit_delta_norm": 79.29914093017578
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.011747360229492,
+      "hidden_base_norm": 12.471816062927246,
+      "logit_delta_norm": 86.13896179199219
+    }
+  },
+  {
+    "image_id": 433822,
+    "category": "spoon",
+    "word": "spoon",
+    "n_gt_patches": 462,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "oon",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.067363739013672,
+      "hidden_base_norm": 11.145280838012695,
+      "logit_delta_norm": 150.86428833007812
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "oon",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.765735626220703,
+      "hidden_base_norm": 11.145280838012695,
+      "logit_delta_norm": 178.9040069580078
+    }
+  },
+  {
+    "image_id": 434219,
+    "category": "baseball glove",
+    "word": "baseball glove",
+    "n_gt_patches": 376,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ve",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.07589340209961,
+      "hidden_base_norm": 9.041061401367188,
+      "logit_delta_norm": 84.33955383300781
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ve",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.830461502075195,
+      "hidden_base_norm": 9.041061401367188,
+      "logit_delta_norm": 89.86186981201172
+    }
+  },
+  {
+    "image_id": 447378,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 66,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.035343170166016,
+      "hidden_base_norm": 11.416311264038086,
+      "logit_delta_norm": 92.22332763671875
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.298608779907227,
+      "hidden_base_norm": 11.416311264038086,
+      "logit_delta_norm": 115.4939193725586
+    }
+  },
+  {
+    "image_id": 447378,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 66,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.035343170166016,
+      "hidden_base_norm": 11.416311264038086,
+      "logit_delta_norm": 92.22332763671875
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.032756805419922,
+      "hidden_base_norm": 11.416311264038086,
+      "logit_delta_norm": 114.77120208740234
+    }
+  },
+  {
+    "image_id": 455218,
+    "category": "chair",
+    "word": "chair",
+    "n_gt_patches": 54,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.910310745239258,
+      "hidden_base_norm": 13.746959686279297,
+      "logit_delta_norm": 81.92471313476562
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.83603858947754,
+      "hidden_base_norm": 13.746959686279297,
+      "logit_delta_norm": 89.07811737060547
+    }
+  },
+  {
+    "image_id": 455218,
+    "category": "potted plant",
+    "word": "potted plant",
+    "n_gt_patches": 54,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "plant",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.727806091308594,
+      "hidden_base_norm": 11.059579849243164,
+      "logit_delta_norm": 87.40803527832031
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "plant",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.885114669799805,
+      "hidden_base_norm": 11.059579849243164,
+      "logit_delta_norm": 83.06580352783203
+    }
+  },
+  {
+    "image_id": 464130,
+    "category": "car",
+    "word": "cars",
+    "n_gt_patches": 488,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.512550354003906,
+      "hidden_base_norm": 13.541337013244629,
+      "logit_delta_norm": 104.96354675292969
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.878196716308594,
+      "hidden_base_norm": 13.541337013244629,
+      "logit_delta_norm": 111.6526870727539
+    }
+  },
+  {
+    "image_id": 465199,
+    "category": "sports ball",
+    "word": "ball",
+    "n_gt_patches": 200,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ball",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.43465232849121,
+      "hidden_base_norm": 8.501370429992676,
+      "logit_delta_norm": 69.86224365234375
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ball",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.893003463745117,
+      "hidden_base_norm": 8.501370429992676,
+      "logit_delta_norm": 83.9364013671875
+    }
+  },
+  {
+    "image_id": 466125,
+    "category": "chair",
+    "word": "chair",
+    "n_gt_patches": 503,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.883752822875977,
+      "hidden_base_norm": 13.023750305175781,
+      "logit_delta_norm": 80.88802337646484
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.24452018737793,
+      "hidden_base_norm": 13.023750305175781,
+      "logit_delta_norm": 103.06371307373047
+    }
+  },
+  {
+    "image_id": 468858,
+    "category": "chair",
+    "word": "chair",
+    "n_gt_patches": 209,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.533275604248047,
+      "hidden_base_norm": 14.7988862991333,
+      "logit_delta_norm": 76.54598999023438
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.99383544921875,
+      "hidden_base_norm": 14.7988862991333,
+      "logit_delta_norm": 90.84175872802734
+    }
+  },
+  {
+    "image_id": 476894,
+    "category": "tie",
+    "word": "ties",
+    "n_gt_patches": 422,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ies",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.13899040222168,
+      "hidden_base_norm": 12.98463249206543,
+      "logit_delta_norm": 97.83529663085938
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ies",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.05327033996582,
+      "hidden_base_norm": 12.98463249206543,
+      "logit_delta_norm": 95.3720703125
+    }
+  },
+  {
+    "image_id": 508482,
+    "category": "person",
+    "word": "passengers",
+    "n_gt_patches": 552,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "passengers",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.485637664794922,
+      "hidden_base_norm": 10.815498352050781,
+      "logit_delta_norm": 161.6464080810547
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "passengers",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.310375213623047,
+      "hidden_base_norm": 10.815498352050781,
+      "logit_delta_norm": 152.17877197265625
+    }
+  },
+  {
+    "image_id": 514417,
+    "category": "truck",
+    "word": "trucks",
+    "n_gt_patches": 24,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "s",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 27.879060745239258,
+      "hidden_base_norm": 7.578464031219482,
+      "logit_delta_norm": 90.54340362548828
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "s",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.00249481201172,
+      "hidden_base_norm": 7.578464031219482,
+      "logit_delta_norm": 77.19241333007812
+    }
+  },
+  {
+    "image_id": 522452,
+    "category": "truck",
+    "word": "trucks",
+    "n_gt_patches": 216,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "s",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.310670852661133,
+      "hidden_base_norm": 6.980933666229248,
+      "logit_delta_norm": 83.39990997314453
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "s",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.81967544555664,
+      "hidden_base_norm": 6.980933666229248,
+      "logit_delta_norm": 86.74989318847656
+    }
+  },
+  {
+    "image_id": 536879,
+    "category": "couch",
+    "word": "couch",
+    "n_gt_patches": 464,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ouch",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 19.947633743286133,
+      "hidden_base_norm": 9.446846961975098,
+      "logit_delta_norm": 44.564064025878906
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ouch",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 22.64141273498535,
+      "hidden_base_norm": 9.446846961975098,
+      "logit_delta_norm": 52.839019775390625
+    }
+  },
+  {
+    "image_id": 541474,
+    "category": "skis",
+    "word": "skis",
+    "n_gt_patches": 90,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "is",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.337074279785156,
+      "hidden_base_norm": 10.376826286315918,
+      "logit_delta_norm": 75.01763153076172
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "is",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.587587356567383,
+      "hidden_base_norm": 10.376826286315918,
+      "logit_delta_norm": 78.1874771118164
+    }
+  },
+  {
+    "image_id": 554582,
+    "category": "tie",
+    "word": "ties",
+    "n_gt_patches": 412,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ies",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.976125717163086,
+      "hidden_base_norm": 10.44786262512207,
+      "logit_delta_norm": 107.46662902832031
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ies",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.354515075683594,
+      "hidden_base_norm": 10.44786262512207,
+      "logit_delta_norm": 118.83837127685547
+    }
+  },
+  {
+    "image_id": 560178,
+    "category": "orange",
+    "word": "orange",
+    "n_gt_patches": 347,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 25.133214950561523,
+      "hidden_base_norm": 18.357315063476562,
+      "logit_delta_norm": 78.21903991699219
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 27.115108489990234,
+      "hidden_base_norm": 18.357315063476562,
+      "logit_delta_norm": 90.77440643310547
+    }
+  },
+  {
+    "image_id": 560466,
+    "category": "car",
+    "word": "cars",
+    "n_gt_patches": 120,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "other",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.45273780822754,
+      "hidden_base_norm": 12.946252822875977,
+      "logit_delta_norm": 74.5317611694336
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "other",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 23.080263137817383,
+      "hidden_base_norm": 12.946252822875977,
+      "logit_delta_norm": 77.49827575683594
+    }
+  },
+  {
+    "image_id": 566651,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "n_gt_patches": 58,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "cket",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.94583511352539,
+      "hidden_base_norm": 6.191822052001953,
+      "logit_delta_norm": 128.2203826904297
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "cket",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.591054916381836,
+      "hidden_base_norm": 6.191822052001953,
+      "logit_delta_norm": 112.88600158691406
+    }
+  },
+  {
+    "image_id": 573930,
+    "category": "handbag",
+    "word": "handbags",
+    "n_gt_patches": 282,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ags",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.046466827392578,
+      "hidden_base_norm": 7.581463813781738,
+      "logit_delta_norm": 106.26762390136719
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ags",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.55226707458496,
+      "hidden_base_norm": 7.581463813781738,
+      "logit_delta_norm": 110.73332977294922
+    }
+  },
+  {
+    "image_id": 574241,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 568,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.28586196899414,
+      "hidden_base_norm": 11.714920043945312,
+      "logit_delta_norm": 92.39857482910156
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 25.128421783447266,
+      "hidden_base_norm": 11.714920043945312,
+      "logit_delta_norm": 92.21418762207031
+    }
+  },
+  {
+    "image_id": 574241,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 568,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 21.28586196899414,
+      "hidden_base_norm": 11.714920043945312,
+      "logit_delta_norm": 92.39857482910156
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 25.128421783447266,
+      "hidden_base_norm": 11.714920043945312,
+      "logit_delta_norm": 92.21418762207031
+    }
+  },
+  {
+    "image_id": 579231,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "n_gt_patches": 360,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 20.084386825561523,
+      "hidden_base_norm": 9.785934448242188,
+      "logit_delta_norm": 69.51078033447266
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false,
+      "hidden_delta_norm": 24.747533798217773,
+      "hidden_base_norm": 9.785934448242188,
+      "logit_delta_norm": 74.01666259765625
+    }
+  }
+]

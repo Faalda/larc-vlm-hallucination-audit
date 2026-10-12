@@ -1,0 +1,1938 @@
+[
+  {
+    "image_id": 6397,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 532,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "chair",
+      "grounded_replacement": true
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "chair",
+      "grounded_replacement": true
+    }
+  },
+  {
+    "image_id": 9679,
+    "category": "skateboard",
+    "word": "skateboard",
+    "n_gt_patches": 324,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 9679,
+    "category": "book",
+    "word": "book",
+    "n_gt_patches": 324,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "book",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "pair",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 14821,
+    "category": "bottle",
+    "word": "bottle",
+    "n_gt_patches": 512,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "le",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "le",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 24133,
+    "category": "surfboard",
+    "word": "surfboard",
+    "n_gt_patches": 49,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "\n",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 28692,
+    "category": "skateboard",
+    "word": "skateboard",
+    "n_gt_patches": 130,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 35887,
+    "category": "bowl",
+    "word": "container",
+    "n_gt_patches": 58,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "or",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 36678,
+    "category": "clock",
+    "word": "clock",
+    "n_gt_patches": 45,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "boat",
+      "grounded_replacement": true
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "clock",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 36678,
+    "category": "clock",
+    "word": "clock",
+    "n_gt_patches": 45,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "boat",
+      "grounded_replacement": true
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "clock",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 40842,
+    "category": "dining table",
+    "word": "desk",
+    "n_gt_patches": 352,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 40948,
+    "category": "sports ball",
+    "word": "ball",
+    "n_gt_patches": 161,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "court",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "court",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 40948,
+    "category": "sports ball",
+    "word": "ball",
+    "n_gt_patches": 161,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "court",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 40948,
+    "category": "sports ball",
+    "word": "ball",
+    "n_gt_patches": 161,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "court",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "court",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 44309,
+    "category": "person",
+    "word": "passengers",
+    "n_gt_patches": 112,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 45392,
+    "category": "baseball glove",
+    "word": "baseball glove",
+    "n_gt_patches": 200,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ter",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 49985,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 180,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "room",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "room",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 51938,
+    "category": "skis",
+    "word": "ski",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "scene",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 78565,
+    "category": "person",
+    "word": "people",
+    "n_gt_patches": 30,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 92205,
+    "category": "stop sign",
+    "word": "stop sign",
+    "n_gt_patches": 40,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 105349,
+    "category": "bicycle",
+    "word": "bicycle",
+    "n_gt_patches": 306,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ction",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ction",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 105349,
+    "category": "traffic light",
+    "word": "traffic light",
+    "n_gt_patches": 306,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "light",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "light",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 120164,
+    "category": "clock",
+    "word": "clock",
+    "n_gt_patches": 504,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "clock",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "clock",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 120164,
+    "category": "clock",
+    "word": "clock",
+    "n_gt_patches": 504,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "clock",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "clock",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 132223,
+    "category": "remote",
+    "word": "remote",
+    "n_gt_patches": 429,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 132223,
+    "category": "remote",
+    "word": "remote",
+    "n_gt_patches": 429,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 137271,
+    "category": "person",
+    "word": "people",
+    "n_gt_patches": 49,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 138078,
+    "category": "baseball glove",
+    "word": "baseball glove",
+    "n_gt_patches": 171,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ve",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "en",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 147769,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "n_gt_patches": 240,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 152252,
+    "category": "tie",
+    "word": "ties",
+    "n_gt_patches": 188,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 167337,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "n_gt_patches": 125,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 169885,
+    "category": "pizza",
+    "word": "pizza",
+    "n_gt_patches": 504,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ink",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ets",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 170393,
+    "category": "parking meter",
+    "word": "parking meter",
+    "n_gt_patches": 264,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "stand",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "area",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 170393,
+    "category": "person",
+    "word": "people",
+    "n_gt_patches": 264,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 172556,
+    "category": "surfboard",
+    "word": "surfboard",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ing",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ing",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 173514,
+    "category": "snowboard",
+    "word": "snowboard",
+    "n_gt_patches": 55,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 180650,
+    "category": "frisbee",
+    "word": "frisbee",
+    "n_gt_patches": 250,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "e",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 187495,
+    "category": "person",
+    "word": "drivers",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "the",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "the",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 189267,
+    "category": "skis",
+    "word": "skis",
+    "n_gt_patches": 171,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "and",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "\n",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 189267,
+    "category": "skis",
+    "word": "ski",
+    "n_gt_patches": 171,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "be",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "be",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 191280,
+    "category": "frisbee",
+    "word": "frisbee",
+    "n_gt_patches": 301,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "e",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "e",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 194956,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 350,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "large",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "large",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 204650,
+    "category": "person",
+    "word": "people",
+    "n_gt_patches": 240,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 204767,
+    "category": "bowl",
+    "word": "bowl",
+    "n_gt_patches": 468,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "of",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "of",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 220446,
+    "category": "bowl",
+    "word": "bowl",
+    "n_gt_patches": 81,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "l",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "l",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 221605,
+    "category": "dining table",
+    "word": "desk",
+    "n_gt_patches": 195,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 221605,
+    "category": "dining table",
+    "word": "desk",
+    "n_gt_patches": 195,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 229270,
+    "category": "chair",
+    "word": "chair",
+    "n_gt_patches": 562,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "room",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "room",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 232597,
+    "category": "tie",
+    "word": "tie",
+    "n_gt_patches": 220,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "jack",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 233365,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "n_gt_patches": 48,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 237814,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "n_gt_patches": 203,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 237814,
+    "category": "sports ball",
+    "word": "ball",
+    "n_gt_patches": 203,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "baseball",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "sports",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 241010,
+    "category": "car",
+    "word": "cars",
+    "n_gt_patches": 94,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 243896,
+    "category": "stop sign",
+    "word": "stop sign",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 243896,
+    "category": "stop sign",
+    "word": "stop sign",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 243896,
+    "category": "skis",
+    "word": "ski",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "walk",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "be",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 243896,
+    "category": "snowboard",
+    "word": "snowboard",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 248163,
+    "category": "car",
+    "word": "cars",
+    "n_gt_patches": 227,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 265574,
+    "category": "sink",
+    "word": "sink",
+    "n_gt_patches": 112,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "to",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "to",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 279387,
+    "category": "cell phone",
+    "word": "telephone",
+    "n_gt_patches": 8,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "on",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "con",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 279387,
+    "category": "traffic light",
+    "word": "street light",
+    "n_gt_patches": 8,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "wall",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "patch",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 283190,
+    "category": "sink",
+    "word": "sink",
+    "n_gt_patches": 116,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "white",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "wooden",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 295957,
+    "category": "surfboard",
+    "word": "surfboard",
+    "n_gt_patches": 224,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ing",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 301491,
+    "category": "skis",
+    "word": "ski",
+    "n_gt_patches": 238,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 305060,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 428,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 315923,
+    "category": "person",
+    "word": "man",
+    "n_gt_patches": 444,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "person",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "person",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 320951,
+    "category": "sink",
+    "word": "sink",
+    "n_gt_patches": 30,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "to",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "wall",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 325157,
+    "category": "tie",
+    "word": "ties",
+    "n_gt_patches": 342,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 326593,
+    "category": "horse",
+    "word": "horse",
+    "n_gt_patches": 506,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "tra",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "tra",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 326593,
+    "category": "horse",
+    "word": "horses",
+    "n_gt_patches": 506,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "large",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "large",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 326593,
+    "category": "horse",
+    "word": "horse",
+    "n_gt_patches": 506,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "tra",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "tra",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 326593,
+    "category": "horse",
+    "word": "horse",
+    "n_gt_patches": 506,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "tra",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "tra",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 326593,
+    "category": "horse",
+    "word": "horse",
+    "n_gt_patches": 506,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "tra",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "tra",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 337843,
+    "category": "skateboard",
+    "word": "skateboard",
+    "n_gt_patches": 225,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 337843,
+    "category": "orange",
+    "word": "orange",
+    "n_gt_patches": 225,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 340811,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 489,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 341010,
+    "category": "orange",
+    "word": "orange",
+    "n_gt_patches": 296,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 341010,
+    "category": "cell phone",
+    "word": "cell phone",
+    "n_gt_patches": 296,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ular",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ular",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 346154,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 498,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 346154,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 498,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 353898,
+    "category": "bird",
+    "word": "birds",
+    "n_gt_patches": 74,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "man",
+      "grounded_replacement": true
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "birds",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 356400,
+    "category": "refrigerator",
+    "word": "refrigerator",
+    "n_gt_patches": 28,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ator",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ation",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 359801,
+    "category": "chair",
+    "word": "chair",
+    "n_gt_patches": 450,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 359801,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 450,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 361947,
+    "category": "person",
+    "word": "passengers",
+    "n_gt_patches": 165,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "bus",
+      "grounded_replacement": true
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "bus",
+      "grounded_replacement": true
+    }
+  },
+  {
+    "image_id": 361947,
+    "category": "person",
+    "word": "people",
+    "n_gt_patches": 165,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 361947,
+    "category": "person",
+    "word": "passengers",
+    "n_gt_patches": 165,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "bus",
+      "grounded_replacement": true
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "bus",
+      "grounded_replacement": true
+    }
+  },
+  {
+    "image_id": 365822,
+    "category": "microwave",
+    "word": "microwave",
+    "n_gt_patches": 71,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ave",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ave",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 367582,
+    "category": "dining table",
+    "word": "desk",
+    "n_gt_patches": 501,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 368836,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "n_gt_patches": 518,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 373170,
+    "category": "dining table",
+    "word": "desks",
+    "n_gt_patches": 86,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "k",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ks",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 383703,
+    "category": "knife",
+    "word": "knife",
+    "n_gt_patches": 444,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ight",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ack",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 383703,
+    "category": "broccoli",
+    "word": "broccoli",
+    "n_gt_patches": 444,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ano",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 387463,
+    "category": "skateboard",
+    "word": "skateboard",
+    "n_gt_patches": 342,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 412286,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "n_gt_patches": 190,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 412286,
+    "category": "sports ball",
+    "word": "ball",
+    "n_gt_patches": 190,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ball",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 413685,
+    "category": "tie",
+    "word": "tie",
+    "n_gt_patches": 261,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 417216,
+    "category": "skateboard",
+    "word": "skateboard",
+    "n_gt_patches": 130,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 417216,
+    "category": "skateboard",
+    "word": "skateboard",
+    "n_gt_patches": 130,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 420579,
+    "category": "skis",
+    "word": "skis",
+    "n_gt_patches": 66,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ate",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ull",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 420579,
+    "category": "skis",
+    "word": "ski",
+    "n_gt_patches": 66,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 423519,
+    "category": "person",
+    "word": "people",
+    "n_gt_patches": 384,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 425004,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 258,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 425004,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 258,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 452113,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 262,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 455218,
+    "category": "chair",
+    "word": "chair",
+    "n_gt_patches": 54,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "white",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "large",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 455218,
+    "category": "potted plant",
+    "word": "potted plant",
+    "n_gt_patches": 54,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "chair",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "plant",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 464130,
+    "category": "car",
+    "word": "cars",
+    "n_gt_patches": 488,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 468858,
+    "category": "chair",
+    "word": "chair",
+    "n_gt_patches": 209,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "large",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 476569,
+    "category": "skis",
+    "word": "skis",
+    "n_gt_patches": 267,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ins",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ins",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 476894,
+    "category": "tie",
+    "word": "ties",
+    "n_gt_patches": 422,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 483897,
+    "category": "orange",
+    "word": "orange",
+    "n_gt_patches": 193,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 484584,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "n_gt_patches": 228,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 484584,
+    "category": "sports ball",
+    "word": "ball",
+    "n_gt_patches": 228,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "sports",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "sports",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 493862,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "n_gt_patches": 154,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 536879,
+    "category": "couch",
+    "word": "couch",
+    "n_gt_patches": 464,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "ouch",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "ouch",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 546962,
+    "category": "frisbee",
+    "word": "frisbee",
+    "n_gt_patches": 72,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "e",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "e",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 547421,
+    "category": "skateboard",
+    "word": "skateboard",
+    "n_gt_patches": 389,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 554582,
+    "category": "tie",
+    "word": "ties",
+    "n_gt_patches": 412,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 566651,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "n_gt_patches": 58,
+    "steer_gt": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 574241,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 568,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 574241,
+    "category": "dining table",
+    "word": "table",
+    "n_gt_patches": 568,
+    "steer_gt": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "steer_random": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  }
+]

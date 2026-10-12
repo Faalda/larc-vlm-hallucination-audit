@@ -1,0 +1,8087 @@
+[
+  {
+    "image_id": "9d251ead9ac41751",
+    "file_name": "9d251ead9ac41751.jpg",
+    "local_path": "data/openimages_images/9d251ead9ac41751.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          0.0,
+          1024.0,
+          768.0
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          147.2,
+          153.60000000000002,
+          99.20000000000002,
+          134.39999999999998
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9fbcdd23c4de8ba7",
+    "file_name": "9fbcdd23c4de8ba7.jpg",
+    "local_path": "data/openimages_images/9fbcdd23c4de8ba7.jpg",
+    "width": 1024,
+    "height": 682,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          82.98672503,
+          135.72901888,
+          247.45133192999998
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          30.16200192,
+          300.26105736,
+          229.23122687999998,
+          223.30972884
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          137.23710464,
+          45.265485760000004,
+          274.47422975999996,
+          187.09734296
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          250.34462208,
+          334.96460008,
+          205.10163968000003,
+          345.52654311999993
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          434.33285632,
+          63.371682109999995,
+          256.37695487999997,
+          239.90707521
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          515.7702656,
+          419.46017168000003,
+          183.98822399999995,
+          261.03097152
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          684.67748864,
+          414.9336422,
+          337.81436415999997,
+          265.557501
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          717.8556416,
+          37.72123927,
+          303.12816639999994,
+          306.29644023
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "42f0f788afccb386",
+    "file_name": "42f0f788afccb386.jpg",
+    "local_path": "data/openimages_images/42f0f788afccb386.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "kite",
+        "bbox": [
+          428.93215744,
+          28.710176151000002,
+          422.89084416,
+          140.528761479
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          466.69027328,
+          421.58628512,
+          557.3097267200001,
+          261.41371488
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "ecbbb807ff44e14d",
+    "file_name": "ecbbb807ff44e14d.jpg",
+    "local_path": "data/openimages_images/ecbbb807ff44e14d.jpg",
+    "width": 681,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "chair",
+        "bbox": [
+          280.85587485,
+          402.66274816,
+          350.31487845000004,
+          459.97054976000004
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "94b18d3615572ada",
+    "file_name": "94b18d3615572ada.jpg",
+    "local_path": "data/openimages_images/94b18d3615572ada.jpg",
+    "width": 1024,
+    "height": 819,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          0.0,
+          198.51373568,
+          229.9818339
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          13.234248704,
+          18.200000637,
+          977.680106496,
+          754.4727402030001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "5387aa0e2ce4b45f",
+    "file_name": "5387aa0e2ce4b45f.jpg",
+    "local_path": "data/openimages_images/5387aa0e2ce4b45f.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "bear",
+        "bbox": [
+          345.6,
+          291.19999487999996,
+          235.19999999999993,
+          428.80000512000004
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a640bec75c8b9bbb",
+    "file_name": "a640bec75c8b9bbb.jpg",
+    "local_path": "data/openimages_images/a640bec75c8b9bbb.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "bicycle",
+        "bbox": [
+          240.0,
+          223.99999488000003,
+          784.0,
+          544.00000512
+        ]
+      },
+      {
+        "category": "bicycle",
+        "bbox": [
+          371.2,
+          164.80000512,
+          652.8,
+          387.19999487999996
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          329.6,
+          12.800001024,
+          68.79999999999995,
+          179.19999897600002
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "3c57daa84d034a3b",
+    "file_name": "3c57daa84d034a3b.jpg",
+    "local_path": "data/openimages_images/3c57daa84d034a3b.jpg",
+    "width": 1024,
+    "height": 604,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          86.63523328,
+          73.90117576,
+          869.19278592,
+          457.61882424000004
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f3e368998a146c69",
+    "file_name": "f3e368998a146c69.jpg",
+    "local_path": "data/openimages_images/f3e368998a146c69.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "chair",
+        "bbox": [
+          57.599999999999994,
+          201.6,
+          219.20001023999998,
+          465.6
+        ]
+      },
+      {
+        "category": "chair",
+        "bbox": [
+          331.20000000000005,
+          400.0,
+          140.79997440000002,
+          305.6
+        ]
+      },
+      {
+        "category": "chair",
+        "bbox": [
+          380.80000512000004,
+          412.8,
+          159.99998208,
+          342.40000000000003
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "87df0c78b0443f76",
+    "file_name": "87df0c78b0443f76.jpg",
+    "local_path": "data/openimages_images/87df0c78b0443f76.jpg",
+    "width": 680,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "bicycle",
+        "bbox": [
+          0.0,
+          418.63528448,
+          114.5898056,
+          85.83529471999998
+        ]
+      },
+      {
+        "category": "bicycle",
+        "bbox": [
+          33.170730479999996,
+          418.63528448,
+          265.36586151999995,
+          439.71766272
+        ]
+      },
+      {
+        "category": "bicycle",
+        "bbox": [
+          290.99778560000004,
+          447.24707328,
+          262.3503104,
+          451.76471552
+        ]
+      },
+      {
+        "category": "bicycle",
+        "bbox": [
+          581.995578,
+          391.5294208,
+          96.49665800000002,
+          174.682368
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          27.13968876,
+          93.36470528,
+          315.12195044,
+          734.8705587200001
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          247.2727316,
+          96.3764736,
+          336.23060360000005,
+          780.0470528000001
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          572.9489804,
+          338.82351616,
+          107.05101959999998,
+          222.87058943999995
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          597.073184,
+          316.23529472,
+          49.75607600000002,
+          146.0705792
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c03ea14ef2039f6e",
+    "file_name": "c03ea14ef2039f6e.jpg",
+    "local_path": "data/openimages_images/c03ea14ef2039f6e.jpg",
+    "width": 1024,
+    "height": 603,
+    "objects": [
+      {
+        "category": "baseball bat",
+        "bbox": [
+          509.1634176,
+          65.26587986999999,
+          112.04433919999997,
+          194.37883488
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "429a1dc98a68b015",
+    "file_name": "429a1dc98a68b015.jpg",
+    "local_path": "data/openimages_images/429a1dc98a68b015.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "airplane",
+        "bbox": [
+          64.94395392,
+          253.85840986,
+          916.76699648,
+          290.12387259
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "bbeabc21ed4956b4",
+    "file_name": "bbeabc21ed4956b4.jpg",
+    "local_path": "data/openimages_images/bbeabc21ed4956b4.jpg",
+    "width": 1024,
+    "height": 680,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          0.0,
+          569.22350592,
+          680.0
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          664.0941056,
+          36.186254399999996,
+          359.90589439999997,
+          643.8137456000001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "adbbe2ecb92408ec",
+    "file_name": "adbbe2ecb92408ec.jpg",
+    "local_path": "data/openimages_images/adbbe2ecb92408ec.jpg",
+    "width": 1024,
+    "height": 685,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          127.054649344,
+          0.0,
+          497.630713856,
+          607.8807820000001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "5a1e0715f9e2846e",
+    "file_name": "5a1e0715f9e2846e.jpg",
+    "local_path": "data/openimages_images/5a1e0715f9e2846e.jpg",
+    "width": 1024,
+    "height": 681,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          0.0,
+          51.33924843,
+          651.499264,
+          629.66075157
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "36be01d71756fd9a",
+    "file_name": "36be01d71756fd9a.jpg",
+    "local_path": "data/openimages_images/36be01d71756fd9a.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "boat",
+        "bbox": [
+          226.54867456,
+          346.03318028,
+          468.20061183999997,
+          128.44029461999997
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "92a4ab794f725c2f",
+    "file_name": "92a4ab794f725c2f.jpg",
+    "local_path": "data/openimages_images/92a4ab794f725c2f.jpg",
+    "width": 1024,
+    "height": 926,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          40.96,
+          81.906631636,
+          932.9778073599999,
+          819.066366364
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "25d0036724609c68",
+    "file_name": "25d0036724609c68.jpg",
+    "local_path": "data/openimages_images/25d0036724609c68.jpg",
+    "width": 1024,
+    "height": 682,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          425.28423936,
+          322.89380024,
+          55.799715839999976,
+          156.92037745999997
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9995dfc6e0eae5a1",
+    "file_name": "9995dfc6e0eae5a1.jpg",
+    "local_path": "data/openimages_images/9995dfc6e0eae5a1.jpg",
+    "width": 1024,
+    "height": 678,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          46.613804032,
+          138.30598614,
+          636.052896768,
+          396.87805985999995
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "bc956e541ad8b3b2",
+    "file_name": "bc956e541ad8b3b2.jpg",
+    "local_path": "data/openimages_images/bc956e541ad8b3b2.jpg",
+    "width": 683,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          148.08407128000002,
+          194.83186176,
+          361.14382447,
+          634.33626624
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c9560490f39a09ee",
+    "file_name": "c9560490f39a09ee.jpg",
+    "local_path": "data/openimages_images/c9560490f39a09ee.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          59.2,
+          121.59999744,
+          924.8,
+          496.00002816000006
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "7d0547e6a6460c40",
+    "file_name": "7d0547e6a6460c40.jpg",
+    "local_path": "data/openimages_images/7d0547e6a6460c40.jpg",
+    "width": 1024,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "broccoli",
+        "bbox": [
+          40.664260608,
+          212.56316928,
+          225.50180659199998,
+          194.0794368
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "ff065d9a599624a5",
+    "file_name": "ff065d9a599624a5.jpg",
+    "local_path": "data/openimages_images/ff065d9a599624a5.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          209.60000255999998,
+          0.0,
+          524.7999974400001,
+          576.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "291ee8947e376a41",
+    "file_name": "291ee8947e376a41.jpg",
+    "local_path": "data/openimages_images/291ee8947e376a41.jpg",
+    "width": 1024,
+    "height": 693,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          132.21710964000002,
+          203.88707328,
+          252.27633816
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          106.508171264,
+          60.7894749,
+          890.104027136,
+          627.6513474
+        ]
+      },
+      {
+        "category": "motorcycle",
+        "bbox": [
+          0.0,
+          262.91448414,
+          127.809806336,
+          161.09209116000002
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "66b306235cacf5f9",
+    "file_name": "66b306235cacf5f9.jpg",
+    "local_path": "data/openimages_images/66b306235cacf5f9.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "truck",
+        "bbox": [
+          68.8,
+          222.39999744000002,
+          923.2,
+          361.60002815999997
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "25abef5bf1819448",
+    "file_name": "25abef5bf1819448.jpg",
+    "local_path": "data/openimages_images/25abef5bf1819448.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "bicycle",
+        "bbox": [
+          32.000001024,
+          41.6,
+          289.599998976,
+          744.0
+        ]
+      },
+      {
+        "category": "bicycle",
+        "bbox": [
+          251.19998976,
+          64.0,
+          216.00002303999997,
+          824.0
+        ]
+      },
+      {
+        "category": "bicycle",
+        "bbox": [
+          343.99999488000003,
+          11.2,
+          271.99997952,
+          779.1999999999999
+        ]
+      },
+      {
+        "category": "bicycle",
+        "bbox": [
+          508.79999999999995,
+          0.0,
+          249.60000000000005,
+          649.6
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9614be29640e8027",
+    "file_name": "9614be29640e8027.jpg",
+    "local_path": "data/openimages_images/9614be29640e8027.jpg",
+    "width": 1024,
+    "height": 685,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          418.9778432,
+          65.0220769,
+          435.61596928,
+          619.9779231
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "068338a53dfabda8",
+    "file_name": "068338a53dfabda8.jpg",
+    "local_path": "data/openimages_images/068338a53dfabda8.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "truck",
+        "bbox": [
+          790.4,
+          0.0,
+          233.60000000000002,
+          163.2
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          24.0,
+          81.6,
+          923.2,
+          561.6
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          609.6,
+          0.0,
+          148.79999999999995,
+          86.4
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9981302a90bd62b1",
+    "file_name": "9981302a90bd62b1.jpg",
+    "local_path": "data/openimages_images/9981302a90bd62b1.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          172.8,
+          217.59999743999998,
+          272.0,
+          145.59999743999998
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          443.2,
+          105.60000000000001,
+          166.40000000000003,
+          396.79997951999997
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          776.0,
+          241.59999743999998,
+          108.79999999999995,
+          201.60001536
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "350de344c906af4a",
+    "file_name": "350de344c906af4a.jpg",
+    "local_path": "data/openimages_images/350de344c906af4a.jpg",
+    "width": 1024,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "pizza",
+        "bbox": [
+          31.42238208,
+          109.0541568,
+          953.7617715199999,
+          791.1047168
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2f706d19d18bfa52",
+    "file_name": "2f706d19d18bfa52.jpg",
+    "local_path": "data/openimages_images/2f706d19d18bfa52.jpg",
+    "width": 1024,
+    "height": 790,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          39.00952576,
+          264.9588584,
+          955.73336064,
+          380.3703376
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "505ca702c2474402",
+    "file_name": "505ca702c2474402.jpg",
+    "local_path": "data/openimages_images/505ca702c2474402.jpg",
+    "width": 1024,
+    "height": 648,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          25.6,
+          33.5999988,
+          955.1999999999999,
+          598.40001288
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "00dc0530e6779ca6",
+    "file_name": "00dc0530e6779ca6.jpg",
+    "local_path": "data/openimages_images/00dc0530e6779ca6.jpg",
+    "width": 683,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          145.06194653999998,
+          138.94985728,
+          140.52876626,
+          356.4365824
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          241.7699109,
+          256.75515904,
+          81.59734065999999,
+          178.21829119999995
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          347.54424948,
+          341.33334016,
+          84.61946539999997,
+          172.17695743999997
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          412.51991089999996,
+          385.1327488,
+          117.86285120000001,
+          138.9498368
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          557.5818711000001,
+          293.0029568,
+          123.90705969999998,
+          589.0265088
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "86709384b50e48d4",
+    "file_name": "86709384b50e48d4.jpg",
+    "local_path": "data/openimages_images/86709384b50e48d4.jpg",
+    "width": 1024,
+    "height": 682,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          371.53982464,
+          232.36282871999998,
+          146.50146815999994,
+          197.65927918000003
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          524.0825856,
+          211.23894264,
+          126.86725119999994,
+          203.69469955999998
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          658.50146816,
+          185.5884998,
+          137.43949824000003,
+          205.20352907999998
+        ]
+      },
+      {
+        "category": "boat",
+        "bbox": [
+          45.309733888,
+          143.34070718,
+          943.952806912,
+          402.86283554
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "ffe8c9d078bef363",
+    "file_name": "ffe8c9d078bef363.jpg",
+    "local_path": "data/openimages_images/ffe8c9d078bef363.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "truck",
+        "bbox": [
+          0.0,
+          65.60000256000001,
+          369.6,
+          270.39999744
+        ]
+      },
+      {
+        "category": "truck",
+        "bbox": [
+          81.6,
+          25.60000128,
+          880.0,
+          742.39999872
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          84.8,
+          24.0,
+          880.0,
+          742.39997952
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "7611206103831b5b",
+    "file_name": "7611206103831b5b.jpg",
+    "local_path": "data/openimages_images/7611206103831b5b.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "cake",
+        "bbox": [
+          6.4,
+          84.799999488,
+          1017.6,
+          531.199974912
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f086927ea28bd7ac",
+    "file_name": "f086927ea28bd7ac.jpg",
+    "local_path": "data/openimages_images/f086927ea28bd7ac.jpg",
+    "width": 1024,
+    "height": 675,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          106.49999475000001,
+          420.41055232,
+          258.00000525
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          84.08211456,
+          217.50000525,
+          828.80937984,
+          349.4999947499999
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "5709361192ca4e66",
+    "file_name": "5709361192ca4e66.jpg",
+    "local_path": "data/openimages_images/5709361192ca4e66.jpg",
+    "width": 1024,
+    "height": 614,
+    "objects": [
+      {
+        "category": "mouse",
+        "bbox": [
+          409.6,
+          127.37995494,
+          452.5650432,
+          320.59671685999996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c6bbe756d89aaacf",
+    "file_name": "c6bbe756d89aaacf.jpg",
+    "local_path": "data/openimages_images/c6bbe756d89aaacf.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "couch",
+        "bbox": [
+          59.200000512,
+          147.2,
+          649.599986688,
+          817.5999999999999
+        ]
+      },
+      {
+        "category": "couch",
+        "bbox": [
+          628.8,
+          272.0,
+          137.59997952000003,
+          376.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a3049e07e109a4b6",
+    "file_name": "a3049e07e109a4b6.jpg",
+    "local_path": "data/openimages_images/a3049e07e109a4b6.jpg",
+    "width": 1024,
+    "height": 765,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          0.0,
+          910.57721344,
+          765.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "96aca2e565ed04ca",
+    "file_name": "96aca2e565ed04ca.jpg",
+    "local_path": "data/openimages_images/96aca2e565ed04ca.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          86.4,
+          187.2,
+          681.5999999999999,
+          836.8
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "517d0bf8268fd589",
+    "file_name": "517d0bf8268fd589.jpg",
+    "local_path": "data/openimages_images/517d0bf8268fd589.jpg",
+    "width": 1024,
+    "height": 616,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          252.4145664,
+          117.74358903999999,
+          126.2072832,
+          450.87178136
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          470.40897024,
+          129.23076936,
+          111.86558975999998,
+          145.02564384000001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "525ea7e8ed9c752d",
+    "file_name": "525ea7e8ed9c752d.jpg",
+    "local_path": "data/openimages_images/525ea7e8ed9c752d.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "bottle",
+        "bbox": [
+          390.4,
+          0.0,
+          614.4,
+          768.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "e33ccc1dba1e115f",
+    "file_name": "e33ccc1dba1e115f.jpg",
+    "local_path": "data/openimages_images/e33ccc1dba1e115f.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          27.2,
+          155.19999744,
+          996.8,
+          468.80000256
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2c4683b139ff1685",
+    "file_name": "2c4683b139ff1685.jpg",
+    "local_path": "data/openimages_images/2c4683b139ff1685.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "horse",
+        "bbox": [
+          28.696165376,
+          293.14601782,
+          258.265478144,
+          353.58847847000004
+        ]
+      },
+      {
+        "category": "horse",
+        "bbox": [
+          116.29498368,
+          294.65707336,
+          412.31859712000005,
+          359.63274844000006
+        ]
+      },
+      {
+        "category": "horse",
+        "bbox": [
+          694.7492864,
+          341.5,
+          194.83183104,
+          226.6592872
+        ]
+      },
+      {
+        "category": "horse",
+        "bbox": [
+          770.2654976,
+          321.85619601999997,
+          214.466048,
+          243.28098693
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          357.94690048,
+          154.12832076,
+          141.97049343999998,
+          199.46016453999997
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          601.10913536,
+          184.3495545,
+          84.57816063999996,
+          105.77433857999996
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          669.0737152,
+          194.92699792000002,
+          74.00591359999999,
+          113.3296436
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          865.41595648,
+          191.90487318,
+          96.66076671999997,
+          143.55087734
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c10501b6c3557cb8",
+    "file_name": "c10501b6c3557cb8.jpg",
+    "local_path": "data/openimages_images/c10501b6c3557cb8.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          30.2064896,
+          214.5708019,
+          953.0147583999999,
+          302.21237838
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2225364f47d276d1",
+    "file_name": "2225364f47d276d1.jpg",
+    "local_path": "data/openimages_images/2225364f47d276d1.jpg",
+    "width": 1024,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "cat",
+        "bbox": [
+          0.0,
+          0.0,
+          987.0324736,
+          1024.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c967f05bfce0fbfb",
+    "file_name": "c967f05bfce0fbfb.jpg",
+    "local_path": "data/openimages_images/c967f05bfce0fbfb.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          305.6,
+          256.53444864,
+          233.60000000000002,
+          413.66178047999995
+        ]
+      },
+      {
+        "category": "dog",
+        "bbox": [
+          524.8,
+          189.1941504,
+          192.0,
+          336.70145279999997
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          0.0,
+          275.2,
+          612.47598336
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          772.8,
+          0.0,
+          251.20000000000005,
+          548.3423769599999
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "60deca7fe2ab7475",
+    "file_name": "60deca7fe2ab7475.jpg",
+    "local_path": "data/openimages_images/60deca7fe2ab7475.jpg",
+    "width": 1024,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          227.3501696,
+          144.17328128,
+          669.11193088,
+          876.1299456
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "dc1c33af522389cc",
+    "file_name": "dc1c33af522389cc.jpg",
+    "local_path": "data/openimages_images/dc1c33af522389cc.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          8.012519424,
+          70.40000256,
+          1007.974987776,
+          641.5999718400001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a6fe63aafa8d6e12",
+    "file_name": "a6fe63aafa8d6e12.jpg",
+    "local_path": "data/openimages_images/a6fe63aafa8d6e12.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "train",
+        "bbox": [
+          0.0,
+          161.59999488,
+          859.2,
+          606.40000512
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c18e1237eb2e55b5",
+    "file_name": "c18e1237eb2e55b5.jpg",
+    "local_path": "data/openimages_images/c18e1237eb2e55b5.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          291.2,
+          584.0000256,
+          356.8,
+          182.39995392000006
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "efec755800aeed4c",
+    "file_name": "efec755800aeed4c.jpg",
+    "local_path": "data/openimages_images/efec755800aeed4c.jpg",
+    "width": 1024,
+    "height": 770,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          54.48513536,
+          162.0208282,
+          775.61191424,
+          476.4374923
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "0932995ad7c9a0d3",
+    "file_name": "0932995ad7c9a0d3.jpg",
+    "local_path": "data/openimages_images/0932995ad7c9a0d3.jpg",
+    "width": 605,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          682.6667008,
+          123.3659251,
+          341.33329920000006
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          138.5754194,
+          126.73267712,
+          386.99721609999995,
+          775.6039372800001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "077180805a0583e4",
+    "file_name": "077180805a0583e4.jpg",
+    "local_path": "data/openimages_images/077180805a0583e4.jpg",
+    "width": 922,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "bear",
+        "bbox": [
+          91.14829304,
+          1.7564322816,
+          785.27756044,
+          997.6535389183999
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "31da508173c545f3",
+    "file_name": "31da508173c545f3.jpg",
+    "local_path": "data/openimages_images/31da508173c545f3.jpg",
+    "width": 1024,
+    "height": 820,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          299.4248704,
+          142.4646516,
+          430.11307519999997,
+          621.2121396
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "454ef27d247df1d0",
+    "file_name": "454ef27d247df1d0.jpg",
+    "local_path": "data/openimages_images/454ef27d247df1d0.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          553.6,
+          89.60000256000001,
+          91.19999999999993
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          345.6,
+          515.2,
+          153.60000000000002,
+          59.19999999999993
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f39d3460c2c7098b",
+    "file_name": "f39d3460c2c7098b.jpg",
+    "local_path": "data/openimages_images/f39d3460c2c7098b.jpg",
+    "width": 768,
+    "height": 768,
+    "objects": [
+      {
+        "category": "tennis racket",
+        "bbox": [
+          117.8339328,
+          363.20576256,
+          149.71840512,
+          72.08665344000005
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c21a4db004e81088",
+    "file_name": "c21a4db004e81088.jpg",
+    "local_path": "data/openimages_images/c21a4db004e81088.jpg",
+    "width": 1024,
+    "height": 678,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          42.102791168,
+          96.21285786,
+          927.765087232,
+          467.5343586
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          852.5814784,
+          81.17959776,
+          148.86348799999996,
+          139.80930876
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          97.71618726,
+          105.25697024,
+          353.28161573999995
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          124.77605544000001,
+          79.69456128,
+          392.3680580999999
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          890.17327616,
+          6.013303701,
+          120.29370368000002,
+          266.088693939
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          939.794432,
+          43.5964509,
+          84.20556799999997,
+          351.77825922
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "77e4b6c07d8d0582",
+    "file_name": "77e4b6c07d8d0582.jpg",
+    "local_path": "data/openimages_images/77e4b6c07d8d0582.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "sandwich",
+        "bbox": [
+          64.0,
+          163.2,
+          888.0,
+          604.8
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a27e8b77fda172d1",
+    "file_name": "a27e8b77fda172d1.jpg",
+    "local_path": "data/openimages_images/a27e8b77fda172d1.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          235.20000000000002,
+          48.0,
+          276.8000255999999
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          307.2,
+          201.60000000000002,
+          118.40000000000003,
+          310.40002559999994
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          721.6,
+          241.59999743999998,
+          241.60000000000002,
+          526.40000256
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "1b56e5dffa79e57b",
+    "file_name": "1b56e5dffa79e57b.jpg",
+    "local_path": "data/openimages_images/1b56e5dffa79e57b.jpg",
+    "width": 1024,
+    "height": 724,
+    "objects": [
+      {
+        "category": "bicycle",
+        "bbox": [
+          63.708648448,
+          211.7505244,
+          795.581207552,
+          512.2494756
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          160.04855808,
+          0.0,
+          442.8528127999999,
+          697.53116816
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "6eff432bb99f4d54",
+    "file_name": "6eff432bb99f4d54.jpg",
+    "local_path": "data/openimages_images/6eff432bb99f4d54.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "truck",
+        "bbox": [
+          208.42477568,
+          225.14823166,
+          756.6725939199999,
+          403.45355034
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c71a400f59ba65eb",
+    "file_name": "c71a400f59ba65eb.jpg",
+    "local_path": "data/openimages_images/c71a400f59ba65eb.jpg",
+    "width": 1024,
+    "height": 571,
+    "objects": [
+      {
+        "category": "airplane",
+        "bbox": [
+          81.423179776,
+          123.04842156,
+          876.334209024,
+          366.38015721
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "546afa6a8541874c",
+    "file_name": "546afa6a8541874c.jpg",
+    "local_path": "data/openimages_images/546afa6a8541874c.jpg",
+    "width": 1024,
+    "height": 714,
+    "objects": [
+      {
+        "category": "bicycle",
+        "bbox": [
+          0.0,
+          0.0,
+          1024.0,
+          714.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a91a1fb0295fe93e",
+    "file_name": "a91a1fb0295fe93e.jpg",
+    "local_path": "data/openimages_images/a91a1fb0295fe93e.jpg",
+    "width": 1024,
+    "height": 650,
+    "objects": [
+      {
+        "category": "airplane",
+        "bbox": [
+          0.0,
+          60.430838,
+          1024.0,
+          507.029497
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          72.1956864,
+          257.93651,
+          110.50359807999999,
+          169.50111750000005
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          558.4114688,
+          244.671193,
+          76.6158848,
+          316.893447
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          772.0518144,
+          253.5147355,
+          139.97122560000003,
+          324.26304949999997
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "b0acd4e1ca08e425",
+    "file_name": "b0acd4e1ca08e425.jpg",
+    "local_path": "data/openimages_images/b0acd4e1ca08e425.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "horse",
+        "bbox": [
+          73.59999744,
+          0.0,
+          692.7999820800001,
+          1024.0
+        ]
+      },
+      {
+        "category": "horse",
+        "bbox": [
+          420.79998720000003,
+          464.0,
+          345.59999232,
+          480.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "7d0e9cc0909794c8",
+    "file_name": "7d0e9cc0909794c8.jpg",
+    "local_path": "data/openimages_images/7d0e9cc0909794c8.jpg",
+    "width": 1024,
+    "height": 769,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          11.217527808,
+          181.03541923,
+          520.813755392,
+          209.87288847
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          116.982788096,
+          163.4125,
+          873.364619264,
+          448.58334614999995
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "17f698ec871569ca",
+    "file_name": "17f698ec871569ca.jpg",
+    "local_path": "data/openimages_images/17f698ec871569ca.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "toilet",
+        "bbox": [
+          164.8,
+          139.2,
+          321.59999999999997,
+          511.99999488
+        ]
+      },
+      {
+        "category": "toilet",
+        "bbox": [
+          635.2,
+          140.80000512,
+          318.4,
+          483.19999487999996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f7ac2b411972923b",
+    "file_name": "f7ac2b411972923b.jpg",
+    "local_path": "data/openimages_images/f7ac2b411972923b.jpg",
+    "width": 1024,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          186.68591104,
+          20.332130304,
+          569.29959936,
+          1003.667869696
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "e483c5a85d6695c2",
+    "file_name": "e483c5a85d6695c2.jpg",
+    "local_path": "data/openimages_images/e483c5a85d6695c2.jpg",
+    "width": 1016,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          152.86331392,
+          349.7101464,
+          147.33813759999998
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          176.80575488,
+          951.5797072,
+          224.69064704
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          178.64748032,
+          1014.1594144,
+          526.73379328
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "826d845c3482090f",
+    "file_name": "826d845c3482090f.jpg",
+    "local_path": "data/openimages_images/826d845c3482090f.jpg",
+    "width": 1024,
+    "height": 723,
+    "objects": [
+      {
+        "category": "vase",
+        "bbox": [
+          399.34445568,
+          523.9806576,
+          226.86492671999997,
+          177.2516199
+        ]
+      },
+      {
+        "category": "vase",
+        "bbox": [
+          405.55994112,
+          478.8903288,
+          223.75717888000003,
+          219.2322534
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "58dc6d8ad7b38d5b",
+    "file_name": "58dc6d8ad7b38d5b.jpg",
+    "local_path": "data/openimages_images/58dc6d8ad7b38d5b.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          0.0,
+          251.19998976,
+          166.4
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "d5ae45239b54251a",
+    "file_name": "d5ae45239b54251a.jpg",
+    "local_path": "data/openimages_images/d5ae45239b54251a.jpg",
+    "width": 1024,
+    "height": 576,
+    "objects": [
+      {
+        "category": "pizza",
+        "bbox": [
+          1.3856562176,
+          63.845783999999995,
+          1018.4573645824,
+          512.154216
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a7022599a8e371cc",
+    "file_name": "a7022599a8e371cc.jpg",
+    "local_path": "data/openimages_images/a7022599a8e371cc.jpg",
+    "width": 1024,
+    "height": 997,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          58.409980928,
+          648.23259058,
+          480.057039872,
+          250.16301272000004
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          169.7540096,
+          405.3736198,
+          359.58644735999997,
+          169.81871090000004
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          538.4670208,
+          489.3699725,
+          374.1889536,
+          202.68680989999993
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          593.22638336,
+          377.98353729999997,
+          330.38147584,
+          160.68862358
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          679.0160384,
+          688.4047714,
+          149.67562240000007,
+          246.51098177999998
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9b9ef363c1745ab3",
+    "file_name": "9b9ef363c1745ab3.jpg",
+    "local_path": "data/openimages_images/9b9ef363c1745ab3.jpg",
+    "width": 683,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          83.108406445,
+          167.64601344,
+          463.89602123500003,
+          688.7079833600001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "430597675ab4f46d",
+    "file_name": "430597675ab4f46d.jpg",
+    "local_path": "data/openimages_images/430597675ab4f46d.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          0.0,
+          1022.4,
+          766.39997952
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "7eb7ce5a8bf015d7",
+    "file_name": "7eb7ce5a8bf015d7.jpg",
+    "local_path": "data/openimages_images/7eb7ce5a8bf015d7.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          190.40000256000002,
+          222.4,
+          156.7999872
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          80.0,
+          236.80000512,
+          896.0,
+          302.40000768
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          252.8,
+          188.80000512,
+          179.2,
+          118.39999488000001
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          489.6,
+          195.19999488,
+          166.39999999999998,
+          105.60001536
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          675.2,
+          185.59999488,
+          196.79999999999995,
+          104.00000255999998
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          862.4,
+          188.80000512,
+          161.60000000000002,
+          97.59999744
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f3c07279aed5f8d9",
+    "file_name": "f3c07279aed5f8d9.jpg",
+    "local_path": "data/openimages_images/f3c07279aed5f8d9.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          61.923305472,
+          140.52875942999998,
+          894.1120737279999,
+          356.61061687
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "13f20b706bfe7f41",
+    "file_name": "13f20b706bfe7f41.jpg",
+    "local_path": "data/openimages_images/13f20b706bfe7f41.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          249.32521592,
+          80.04719616,
+          433.67478408
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          545.2271104,
+          275.01326938,
+          157.07376639999995,
+          335.45575052000004
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "4a909d9a11df53f3",
+    "file_name": "4a909d9a11df53f3.jpg",
+    "local_path": "data/openimages_images/4a909d9a11df53f3.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          146.5014784,
+          84.61946881499999,
+          724.95574016,
+          401.9424913849999
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          561.84070144,
+          72.53097326999999,
+          462.15929856,
+          276.52435224
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "77088df8c484d134",
+    "file_name": "77088df8c484d134.jpg",
+    "local_path": "data/openimages_images/77088df8c484d134.jpg",
+    "width": 1024,
+    "height": 577,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          338.5582592,
+          132.08433582,
+          481.4742528,
+          394.86264518
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "095a70ede01f795e",
+    "file_name": "095a70ede01f795e.jpg",
+    "local_path": "data/openimages_images/095a70ede01f795e.jpg",
+    "width": 1024,
+    "height": 682,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          333.7817088,
+          178.04424308,
+          134.41888256,
+          316.85840032000004
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          335.29202688,
+          445.11064180000005,
+          209.93508352000003,
+          143.34066625999995
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9a80fdc7051e4742",
+    "file_name": "9a80fdc7051e4742.jpg",
+    "local_path": "data/openimages_images/9a80fdc7051e4742.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          215.9763968,
+          39.287612058,
+          808.0236032,
+          643.7123879420001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a24ca99efee3224c",
+    "file_name": "a24ca99efee3224c.jpg",
+    "local_path": "data/openimages_images/a24ca99efee3224c.jpg",
+    "width": 683,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          191.90487318,
+          170.66667008,
+          285.59069914,
+          794.43069952
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "0443efb101717113",
+    "file_name": "0443efb101717113.jpg",
+    "local_path": "data/openimages_images/0443efb101717113.jpg",
+    "width": 1024,
+    "height": 682,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          87.598823424,
+          105.61947132,
+          833.699096576,
+          481.32302768
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "aca40faf3e50b3c0",
+    "file_name": "aca40faf3e50b3c0.jpg",
+    "local_path": "data/openimages_images/aca40faf3e50b3c0.jpg",
+    "width": 683,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          0.0,
+          30.2064896,
+          657.3119601999999,
+          993.7935104
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "36694d42d479812e",
+    "file_name": "36694d42d479812e.jpg",
+    "local_path": "data/openimages_images/36694d42d479812e.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          232.0,
+          428.80000512000004,
+          131.2,
+          107.20002047999995
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          252.8,
+          443.20001279999997,
+          113.59999999999997,
+          81.59999232000001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "3ca740fca45953bd",
+    "file_name": "3ca740fca45953bd.jpg",
+    "local_path": "data/openimages_images/3ca740fca45953bd.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          232.58996736,
+          120.88495545,
+          185.76992256,
+          178.30531184999998
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          709.8524672,
+          343.0110692,
+          81.55756544000008,
+          250.83629194999997
+        ]
+      },
+      {
+        "category": "snowboard",
+        "bbox": [
+          288.47198208,
+          123.90708019,
+          203.89380096000002,
+          179.81636739
+        ]
+      },
+      {
+        "category": "snowboard",
+        "bbox": [
+          626.7846656,
+          559.0929403,
+          276.38937599999997,
+          43.820774579999956
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "e5836406923448c1",
+    "file_name": "e5836406923448c1.jpg",
+    "local_path": "data/openimages_images/e5836406923448c1.jpg",
+    "width": 712,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "tie",
+        "bbox": [
+          328.2597324,
+          468.81927168,
+          58.56274760000004,
+          206.65065471999998
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "8466865ce1a36e2d",
+    "file_name": "8466865ce1a36e2d.jpg",
+    "local_path": "data/openimages_images/8466865ce1a36e2d.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          497.6,
+          126.40000512,
+          78.39999999999998,
+          233.59999488000003
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "b8a3f2ea385e45b3",
+    "file_name": "b8a3f2ea385e45b3.jpg",
+    "local_path": "data/openimages_images/b8a3f2ea385e45b3.jpg",
+    "width": 1024,
+    "height": 576,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          872.96344064,
+          312.28917119999994,
+          151.03655935999996,
+          190.14940800000002
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          828.6224384,
+          302.57349120000003,
+          45.72667904000002,
+          137.40721919999996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f793b0f85f384dbf",
+    "file_name": "f793b0f85f384dbf.jpg",
+    "local_path": "data/openimages_images/f793b0f85f384dbf.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          192.0,
+          267.2,
+          483.19999487999996,
+          756.8
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "1c694c5d547cbfae",
+    "file_name": "1c694c5d547cbfae.jpg",
+    "local_path": "data/openimages_images/1c694c5d547cbfae.jpg",
+    "width": 1024,
+    "height": 542,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          10.764782592,
+          232.6699768,
+          308.14192332799996,
+          309.33002319999997
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          371.38500608,
+          24.208437046,
+          252.97241088000004,
+          500.307672754
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          749.4980608,
+          24.208437046,
+          261.0459648000001,
+          466.684865354
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9e3d4ecf1fb29f86",
+    "file_name": "9e3d4ecf1fb29f86.jpg",
+    "local_path": "data/openimages_images/9e3d4ecf1fb29f86.jpg",
+    "width": 1024,
+    "height": 580,
+    "objects": [
+      {
+        "category": "boat",
+        "bbox": [
+          11.13043456,
+          0.0,
+          972.5217126399999,
+          329.64027400000003
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "48dc28e785a9479b",
+    "file_name": "48dc28e785a9479b.jpg",
+    "local_path": "data/openimages_images/48dc28e785a9479b.jpg",
+    "width": 1024,
+    "height": 698,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          401.3591552,
+          0.0,
+          326.58121728,
+          698.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "d66df122fdc286db",
+    "file_name": "d66df122fdc286db.jpg",
+    "local_path": "data/openimages_images/d66df122fdc286db.jpg",
+    "width": 1024,
+    "height": 685,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          0.0,
+          116.43487520000001,
+          608.04723712,
+          568.5651248
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "479c52760b0e6b6e",
+    "file_name": "479c52760b0e6b6e.jpg",
+    "local_path": "data/openimages_images/479c52760b0e6b6e.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "truck",
+        "bbox": [
+          67.2,
+          169.59999743999998,
+          904.0,
+          411.20000256000003
+        ]
+      },
+      {
+        "category": "truck",
+        "bbox": [
+          816.0,
+          222.39999744000002,
+          208.0,
+          180.80000256
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          265.59999744,
+          291.2,
+          147.20000255999997
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          348.80001024,
+          83.2,
+          118.40000256
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "7f27492e450462f2",
+    "file_name": "7f27492e450462f2.jpg",
+    "local_path": "data/openimages_images/7f27492e450462f2.jpg",
+    "width": 1024,
+    "height": 767,
+    "objects": [
+      {
+        "category": "stop sign",
+        "bbox": [
+          121.6,
+          49.63883255499999,
+          776.0,
+          650.108567225
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "8fa9801a6fcf4181",
+    "file_name": "8fa9801a6fcf4181.jpg",
+    "local_path": "data/openimages_images/8fa9801a6fcf4181.jpg",
+    "width": 1024,
+    "height": 680,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          236.4235264,
+          88.95787200000001,
+          703.24706304,
+          535.254996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "7cae57aa3c1e1c4c",
+    "file_name": "7cae57aa3c1e1c4c.jpg",
+    "local_path": "data/openimages_images/7cae57aa3c1e1c4c.jpg",
+    "width": 1024,
+    "height": 904,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          26.078098432,
+          0.0,
+          933.5959111679999,
+          862.27692864
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          67.80305408,
+          0.0,
+          255.56535296000004,
+          79.96923216
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          69.541595136,
+          1.7384615176,
+          212.101863424,
+          76.4923099384
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          502.43802112,
+          0.0,
+          377.2631756800001,
+          104.30769286399999
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          853.6230912,
+          0.0,
+          170.37690880000002,
+          106.04615176
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "23447421bc4a22ba",
+    "file_name": "23447421bc4a22ba.jpg",
+    "local_path": "data/openimages_images/23447421bc4a22ba.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "cake",
+        "bbox": [
+          0.0,
+          0.0,
+          1024.0,
+          683.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "cf09b65ddb331a59",
+    "file_name": "cf09b65ddb331a59.jpg",
+    "local_path": "data/openimages_images/cf09b65ddb331a59.jpg",
+    "width": 1024,
+    "height": 681,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          695.23419136,
+          330.68515560000003,
+          76.91311103999999,
+          265.7560959
+        ]
+      },
+      {
+        "category": "boat",
+        "bbox": [
+          615.30486784,
+          89.0886924,
+          187.00439552,
+          528.49225644
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f1fc4e32dc639d6a",
+    "file_name": "f1fc4e32dc639d6a.jpg",
+    "local_path": "data/openimages_images/f1fc4e32dc639d6a.jpg",
+    "width": 1024,
+    "height": 769,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          131.405312,
+          3.204166923,
+          828.4945408,
+          708.120833077
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "8a97896a99af435c",
+    "file_name": "8a97896a99af435c.jpg",
+    "local_path": "data/openimages_images/8a97896a99af435c.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          776.0,
+          275.19998976,
+          160.0,
+          492.80001023999995
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "bb54d90789b049ec",
+    "file_name": "bb54d90789b049ec.jpg",
+    "local_path": "data/openimages_images/bb54d90789b049ec.jpg",
+    "width": 1024,
+    "height": 730,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          220.09756672,
+          0.0,
+          803.90243328,
+          118.800857
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          266.92681728,
+          370.471058,
+          757.07318272,
+          118.80093000000002
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          284.09756672,
+          126.6166969,
+          739.90243328,
+          117.2376861
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          290.34145792,
+          245.4175612,
+          733.65854208,
+          123.49036970000004
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          334.048768,
+          493.961435,
+          689.951232,
+          121.92719880000006
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "4d6d17f9ed60e02b",
+    "file_name": "4d6d17f9ed60e02b.jpg",
+    "local_path": "data/openimages_images/4d6d17f9ed60e02b.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          928.0,
+          0.0,
+          96.0,
+          499.20000000000005
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "239df0636d3e6167",
+    "file_name": "239df0636d3e6167.jpg",
+    "local_path": "data/openimages_images/239df0636d3e6167.jpg",
+    "width": 884,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          61.91439644,
+          41.23489792,
+          760.17121596,
+          936.37582336
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "65e080f9ac466664",
+    "file_name": "65e080f9ac466664.jpg",
+    "local_path": "data/openimages_images/65e080f9ac466664.jpg",
+    "width": 1024,
+    "height": 575,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          94.2168665,
+          90.0676608,
+          120.54216625000001
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          36.02706432,
+          99.75903849999999,
+          327.01490176,
+          199.51807700000003
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          162.1217792,
+          92.83132350000001,
+          698.37077504,
+          354.698824
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          663.7293568,
+          88.67470025,
+          151.0365696,
+          59.57832025000001
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          806.451968,
+          85.90361999999999,
+          156.57917440000006,
+          69.277104
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "6acc60bb6c56dbde",
+    "file_name": "6acc60bb6c56dbde.jpg",
+    "local_path": "data/openimages_images/6acc60bb6c56dbde.jpg",
+    "width": 1024,
+    "height": 576,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          127.480377344,
+          244.27951488,
+          678.971590656,
+          208.19279232
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a50c1e4bea745d6b",
+    "file_name": "a50c1e4bea745d6b.jpg",
+    "local_path": "data/openimages_images/a50c1e4bea745d6b.jpg",
+    "width": 1024,
+    "height": 765,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          15.975038976,
+          46.31523894,
+          987.2573808640001,
+          589.32150156
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "6abc53cd80bb2f83",
+    "file_name": "6abc53cd80bb2f83.jpg",
+    "local_path": "data/openimages_images/6abc53cd80bb2f83.jpg",
+    "width": 1024,
+    "height": 685,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          650.3988224,
+          12.097130139999999,
+          57.47712000000001,
+          284.28255281
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          704.8508416,
+          16.63355497,
+          78.65287680000006,
+          326.62252063
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "61362bfc3e9f61c1",
+    "file_name": "61362bfc3e9f61c1.jpg",
+    "local_path": "data/openimages_images/61362bfc3e9f61c1.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "truck",
+        "bbox": [
+          0.0,
+          107.19999744,
+          1004.8,
+          489.60000768
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c956f504b965a79a",
+    "file_name": "c956f504b965a79a.jpg",
+    "local_path": "data/openimages_images/c956f504b965a79a.jpg",
+    "width": 1024,
+    "height": 911,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          0.0,
+          47.12069154,
+          1024.0,
+          863.87930846
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "58283abbab68f577",
+    "file_name": "58283abbab68f577.jpg",
+    "local_path": "data/openimages_images/58283abbab68f577.jpg",
+    "width": 1024,
+    "height": 765,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          234.7703604,
+          915.3697792,
+          530.2296396
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          324.20667105,
+          138.98283008,
+          126.16910145000003
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          17.572542464,
+          191.64927645,
+          375.41341593600004,
+          190.05217065
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          105.43525888,
+          142.13987640000002,
+          118.21528063999999,
+          261.92065410000004
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "46d4f30290f1ae69",
+    "file_name": "46d4f30290f1ae69.jpg",
+    "local_path": "data/openimages_images/46d4f30290f1ae69.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          611.2,
+          134.39999999999998,
+          156.79999999999995,
+          214.40001024
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          780.8,
+          108.80000256,
+          104.0,
+          228.79999487999999
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a3bfb14f7fa88eb2",
+    "file_name": "a3bfb14f7fa88eb2.jpg",
+    "local_path": "data/openimages_images/a3bfb14f7fa88eb2.jpg",
+    "width": 1024,
+    "height": 613,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          0.0,
+          156.11447544,
+          446.21228032,
+          217.70095486
+        ]
+      },
+      {
+        "category": "dog",
+        "bbox": [
+          301.76534528,
+          184.75935244000001,
+          539.17319168,
+          229.15888113999998
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "645caf63ba17cb32",
+    "file_name": "645caf63ba17cb32.jpg",
+    "local_path": "data/openimages_images/645caf63ba17cb32.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "cake",
+        "bbox": [
+          155.2,
+          11.199999744,
+          676.8,
+          585.600005376
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f8a296c18fefa1e5",
+    "file_name": "f8a296c18fefa1e5.jpg",
+    "local_path": "data/openimages_images/f8a296c18fefa1e5.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          163.19468815000002,
+          285.45132544,
+          244.79201514999997
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          30.2064896,
+          125.41814256,
+          946.9734655999999,
+          501.67257024
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "804d7cfeac954931",
+    "file_name": "804d7cfeac954931.jpg",
+    "local_path": "data/openimages_images/804d7cfeac954931.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          76.8,
+          70.40000256,
+          889.6,
+          660.8000102399999
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          606.4,
+          99.19999487999999,
+          417.6,
+          427.19998464
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "df3baf9276029b6a",
+    "file_name": "df3baf9276029b6a.jpg",
+    "local_path": "data/openimages_images/df3baf9276029b6a.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          124.8,
+          0.0,
+          750.4000000000001,
+          649.60002048
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "06e011fbb8d24f19",
+    "file_name": "06e011fbb8d24f19.jpg",
+    "local_path": "data/openimages_images/06e011fbb8d24f19.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "chair",
+        "bbox": [
+          115.2,
+          305.60000256,
+          329.6,
+          449.60001024
+        ]
+      },
+      {
+        "category": "chair",
+        "bbox": [
+          332.8,
+          227.19998976,
+          321.59999999999997,
+          342.40003584
+        ]
+      },
+      {
+        "category": "chair",
+        "bbox": [
+          600.0,
+          225.60000000000002,
+          243.20000000000005,
+          268.8
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "8ec925b0bd0bf693",
+    "file_name": "8ec925b0bd0bf693.jpg",
+    "local_path": "data/openimages_images/8ec925b0bd0bf693.jpg",
+    "width": 1024,
+    "height": 737,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          51.748851712,
+          288.52765832,
+          542.578843648,
+          448.47234168
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          65.86217472,
+          203.85106037999998,
+          426.5359872,
+          533.14893962
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          456.33078272,
+          61.155320325000005,
+          370.08268288,
+          675.844679675
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          468.87595008,
+          318.3212813,
+          363.81008896,
+          418.6787187
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "fe00cdea194cad52",
+    "file_name": "fe00cdea194cad52.jpg",
+    "local_path": "data/openimages_images/fe00cdea194cad52.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          41.6,
+          177.60000000000002,
+          961.6,
+          414.3999744000001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "96792d9d197d0951",
+    "file_name": "96792d9d197d0951.jpg",
+    "local_path": "data/openimages_images/96792d9d197d0951.jpg",
+    "width": 1024,
+    "height": 644,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          140.83666944,
+          205.3758504,
+          507.59887872,
+          390.2141544
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9aff821ca89f8af6",
+    "file_name": "9aff821ca89f8af6.jpg",
+    "local_path": "data/openimages_images/9aff821ca89f8af6.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          69.47492864,
+          216.08185744,
+          770.26548736,
+          358.12167924
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          611.6813824,
+          296.16814256000004,
+          190.30091776000006,
+          89.15265934000001
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          842.76105216,
+          282.56858805999997,
+          108.74333184,
+          101.24114464000003
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          866.9262848,
+          268.96901990000003,
+          157.07371520000004,
+          202.48231659999996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f3c62d8675de6933",
+    "file_name": "f3c62d8675de6933.jpg",
+    "local_path": "data/openimages_images/f3c62d8675de6933.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          0.0,
+          134.4,
+          768.0,
+          870.4
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "feaf383fc5de383f",
+    "file_name": "feaf383fc5de383f.jpg",
+    "local_path": "data/openimages_images/feaf383fc5de383f.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          4.8,
+          0.0,
+          947.2,
+          768.0
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          6.4,
+          57.599999999999994,
+          104.0,
+          183.99999744
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          820.8,
+          75.20000256,
+          136.0,
+          84.79999488000001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "7c448c53f405f135",
+    "file_name": "7c448c53f405f135.jpg",
+    "local_path": "data/openimages_images/7c448c53f405f135.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          280.92035072,
+          148.08407128000002,
+          436.48375808000003,
+          435.18583962
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "d6017b24eee8a0f8",
+    "file_name": "d6017b24eee8a0f8.jpg",
+    "local_path": "data/openimages_images/d6017b24eee8a0f8.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "cat",
+        "bbox": [
+          0.0,
+          27.19911583,
+          839.740416,
+          654.28981497
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "0a73064c82730ff5",
+    "file_name": "0a73064c82730ff5.jpg",
+    "local_path": "data/openimages_images/0a73064c82730ff5.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          230.39999999999998,
+          526.4,
+          537.5999999999999
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "6ce61d4488c1b263",
+    "file_name": "6ce61d4488c1b263.jpg",
+    "local_path": "data/openimages_images/6ce61d4488c1b263.jpg",
+    "width": 1024,
+    "height": 695,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          496.76189696,
+          73.1578962,
+          223.99999999999994,
+          432.8508928
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "946da51dcb93a138",
+    "file_name": "946da51dcb93a138.jpg",
+    "local_path": "data/openimages_images/946da51dcb93a138.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          63.433627648,
+          160.17256341,
+          841.250762752,
+          376.25443451
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          752.1416192,
+          314.300891,
+          271.85838079999996,
+          145.06192604999998
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9c5ec6eea74dc169",
+    "file_name": "9c5ec6eea74dc169.jpg",
+    "local_path": "data/openimages_images/9c5ec6eea74dc169.jpg",
+    "width": 1024,
+    "height": 515,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          432.6760448,
+          174.28753600000002,
+          158.64786944000002,
+          220.15266349999996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "540d9b4063af6f29",
+    "file_name": "540d9b4063af6f29.jpg",
+    "local_path": "data/openimages_images/540d9b4063af6f29.jpg",
+    "width": 1024,
+    "height": 765,
+    "objects": [
+      {
+        "category": "motorcycle",
+        "bbox": [
+          479.2511488,
+          172.4843358,
+          367.42591487999994,
+          592.5156642000001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "6afeb8efa7c41603",
+    "file_name": "6afeb8efa7c41603.jpg",
+    "local_path": "data/openimages_images/6afeb8efa7c41603.jpg",
+    "width": 1024,
+    "height": 680,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          177.91574400000002,
+          457.78824192,
+          324.16851199999996
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          64.7529472,
+          180.931272,
+          844.8,
+          437.2505672
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "698bbdfebadd50ab",
+    "file_name": "698bbdfebadd50ab.jpg",
+    "local_path": "data/openimages_images/698bbdfebadd50ab.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          78.4,
+          708.7999872,
+          830.4
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          399.99997440000004,
+          324.8,
+          366.40000511999995,
+          347.2
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "29b2e8c13d679991",
+    "file_name": "29b2e8c13d679991.jpg",
+    "local_path": "data/openimages_images/29b2e8c13d679991.jpg",
+    "width": 765,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          15.970772655000001,
+          47.925117952,
+          749.029227345,
+          902.589713408
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "94fff6bdd55d9279",
+    "file_name": "94fff6bdd55d9279.jpg",
+    "local_path": "data/openimages_images/94fff6bdd55d9279.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          0.0,
+          179.81637422,
+          759.6932096,
+          503.18362578000006
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "e23c0361ed8134d4",
+    "file_name": "e23c0361ed8134d4.jpg",
+    "local_path": "data/openimages_images/e23c0361ed8134d4.jpg",
+    "width": 680,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          158.3148596,
+          774.0235776,
+          75.3880164,
+          192.75291648000007
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "90735a1f346057b9",
+    "file_name": "90735a1f346057b9.jpg",
+    "local_path": "data/openimages_images/90735a1f346057b9.jpg",
+    "width": 1024,
+    "height": 500,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          27.151515648,
+          120.155035,
+          597.333348352,
+          332.04136500000004
+        ]
+      },
+      {
+        "category": "dog",
+        "bbox": [
+          677.4949376,
+          124.031005,
+          307.71717120000005,
+          304.909545
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9ee4c3ab36674bba",
+    "file_name": "9ee4c3ab36674bba.jpg",
+    "local_path": "data/openimages_images/9ee4c3ab36674bba.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "airplane",
+        "bbox": [
+          0.0,
+          220.79999999999998,
+          931.2,
+          513.6
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "95285b98d8f7ed09",
+    "file_name": "95285b98d8f7ed09.jpg",
+    "local_path": "data/openimages_images/95285b98d8f7ed09.jpg",
+    "width": 1024,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "cake",
+        "bbox": [
+          46.209384448,
+          203.32130304,
+          926.036119552,
+          589.63173376
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c9a2b418c0ee29a4",
+    "file_name": "c9a2b418c0ee29a4.jpg",
+    "local_path": "data/openimages_images/c9a2b418c0ee29a4.jpg",
+    "width": 1024,
+    "height": 451,
+    "objects": [
+      {
+        "category": "airplane",
+        "bbox": [
+          132.6043136,
+          132.71935094,
+          764.9304576,
+          192.93462495999998
+        ]
+      },
+      {
+        "category": "airplane",
+        "bbox": [
+          843.510784,
+          233.48773315999998,
+          180.48921600000006,
+          39.32426399000004
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2c09fab0221652c5",
+    "file_name": "2c09fab0221652c5.jpg",
+    "local_path": "data/openimages_images/2c09fab0221652c5.jpg",
+    "width": 1024,
+    "height": 765,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          19.170045952,
+          0.0,
+          977.672347648,
+          765.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "662bf0ac81e57758",
+    "file_name": "662bf0ac81e57758.jpg",
+    "local_path": "data/openimages_images/662bf0ac81e57758.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "horse",
+        "bbox": [
+          173.68731648,
+          24.17699109,
+          590.5368883200001,
+          658.82300891
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          30.2064896,
+          406.47568191,
+          70.98525184,
+          229.68137779
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          119.3156352,
+          273.50221383999997,
+          90.61946879999999,
+          190.39377666
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "584d44e700ecca50",
+    "file_name": "584d44e700ecca50.jpg",
+    "local_path": "data/openimages_images/584d44e700ecca50.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          0.0,
+          1024.0,
+          768.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "b76a2964b6a7d968",
+    "file_name": "b76a2964b6a7d968.jpg",
+    "local_path": "data/openimages_images/b76a2964b6a7d968.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          0.0,
+          1024.0,
+          768.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "85b541b4a2e88e8a",
+    "file_name": "85b541b4a2e88e8a.jpg",
+    "local_path": "data/openimages_images/85b541b4a2e88e8a.jpg",
+    "width": 1024,
+    "height": 681,
+    "objects": [
+      {
+        "category": "horse",
+        "bbox": [
+          242.8041216,
+          27.179600067,
+          340.8306176,
+          623.6208420329999
+        ]
+      },
+      {
+        "category": "horse",
+        "bbox": [
+          393.6141312,
+          90.5986737,
+          141.76143360000003,
+          540.5720795999999
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          574.5861632,
+          184.21730999999997,
+          203.59352320000005,
+          261.22613157000006
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "3454c87a14067798",
+    "file_name": "3454c87a14067798.jpg",
+    "local_path": "data/openimages_images/3454c87a14067798.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "toilet",
+        "bbox": [
+          78.4,
+          624.0,
+          235.20000000000002,
+          144.0
+        ]
+      },
+      {
+        "category": "toilet",
+        "bbox": [
+          598.4,
+          622.39997952,
+          241.60000000000002,
+          145.60002047999998
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "3ceffbf79181f616",
+    "file_name": "3ceffbf79181f616.jpg",
+    "local_path": "data/openimages_images/3ceffbf79181f616.jpg",
+    "width": 681,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "fire hydrant",
+        "bbox": [
+          46.80931134,
+          380.041216,
+          338.23503486,
+          570.0618752
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "4ae93226900be560",
+    "file_name": "4ae93226900be560.jpg",
+    "local_path": "data/openimages_images/4ae93226900be560.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          278.4,
+          142.69728768000002,
+          492.80000000000007,
+          625.30271232
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "0210e5bd37398d59",
+    "file_name": "0210e5bd37398d59.jpg",
+    "local_path": "data/openimages_images/0210e5bd37398d59.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "boat",
+        "bbox": [
+          620.7433728,
+          67.99778616,
+          215.97641728000008,
+          303.72346123999995
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "05982979d60a5646",
+    "file_name": "05982979d60a5646.jpg",
+    "local_path": "data/openimages_images/05982979d60a5646.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "horse",
+        "bbox": [
+          250.71386624,
+          288.61283754,
+          436.48376831999997,
+          297.67921176
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          395.70501632,
+          164.70575052,
+          116.29498367999997,
+          241.76993139
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          643.3982464,
+          273.50221383999997,
+          114.78461440000001,
+          320.34514730999996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "b9e7d028c987593a",
+    "file_name": "b9e7d028c987593a.jpg",
+    "local_path": "data/openimages_images/b9e7d028c987593a.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          46.4,
+          168.0,
+          840.0,
+          567.9999744
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "af6e45d2e9a8b7a3",
+    "file_name": "af6e45d2e9a8b7a3.jpg",
+    "local_path": "data/openimages_images/af6e45d2e9a8b7a3.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          283.2,
+          561.5999999999999,
+          142.40000000000003,
+          73.60001280000003
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          872.0,
+          563.2000128,
+          152.0,
+          83.19996672000002
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "7e19197da3818c53",
+    "file_name": "7e19197da3818c53.jpg",
+    "local_path": "data/openimages_images/7e19197da3818c53.jpg",
+    "width": 1024,
+    "height": 576,
+    "objects": [
+      {
+        "category": "motorcycle",
+        "bbox": [
+          356.11367424,
+          419.16144384,
+          248.03244031999998,
+          156.83855616000002
+        ]
+      },
+      {
+        "category": "bus",
+        "bbox": [
+          0.0,
+          1.3879518336,
+          843.8646784,
+          541.3011905664
+        ]
+      },
+      {
+        "category": "bus",
+        "bbox": [
+          838.3220736,
+          195.70119552,
+          185.67792640000005,
+          240.11566847999998
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          315.0650592,
+          202.30581248,
+          260.9349408
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          448.9526272,
+          338.6602368,
+          103.92422400000004,
+          213.7446144
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "0e8a6e5f8220251c",
+    "file_name": "0e8a6e5f8220251c.jpg",
+    "local_path": "data/openimages_images/0e8a6e5f8220251c.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          46.39999872,
+          278.4,
+          43.20000384
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          136.0,
+          72.0,
+          796.8,
+          561.5999999999999
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          728.0,
+          55.999997952,
+          227.20000000000005,
+          99.19999948799999
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9f7963816508342a",
+    "file_name": "9f7963816508342a.jpg",
+    "local_path": "data/openimages_images/9f7963816508342a.jpg",
+    "width": 1024,
+    "height": 681,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          244.31222784,
+          141.93791532,
+          671.10455296,
+          514.90242474
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2c2c60658d188299",
+    "file_name": "2c2c60658d188299.jpg",
+    "local_path": "data/openimages_images/2c2c60658d188299.jpg",
+    "width": 1024,
+    "height": 819,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          87.04,
+          53.746875,
+          445.44,
+          734.540625
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "618de81b4b5c3cbf",
+    "file_name": "618de81b4b5c3cbf.jpg",
+    "local_path": "data/openimages_images/618de81b4b5c3cbf.jpg",
+    "width": 1022,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "sheep",
+        "bbox": [
+          12.936709016,
+          110.902528,
+          1005.3670951239999,
+          905.7039872
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "cca327900ddb957a",
+    "file_name": "cca327900ddb957a.jpg",
+    "local_path": "data/openimages_images/cca327900ddb957a.jpg",
+    "width": 1024,
+    "height": 640,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          20.45078528,
+          0.0,
+          972.87304192,
+          640.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a03a6011b066cd73",
+    "file_name": "a03a6011b066cd73.jpg",
+    "local_path": "data/openimages_images/a03a6011b066cd73.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          51.2,
+          217.59999743999998,
+          952.0,
+          377.60000256
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          180.80000256,
+          1024.0,
+          342.39999744
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "bc06d5105655c066",
+    "file_name": "bc06d5105655c066.jpg",
+    "local_path": "data/openimages_images/bc06d5105655c066.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          75.516227584,
+          412.51991089999996,
+          164.625360896,
+          267.45798485000006
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          146.5014784,
+          179.81637422,
+          107.23303424,
+          284.07961628
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "5ed894f0be8a58a4",
+    "file_name": "5ed894f0be8a58a4.jpg",
+    "local_path": "data/openimages_images/5ed894f0be8a58a4.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          424.0,
+          251.19998976,
+          92.79999999999995,
+          118.40001024
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          713.6,
+          310.40000256,
+          113.60000000000002,
+          148.79999232
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "55bfd8be07f20774",
+    "file_name": "55bfd8be07f20774.jpg",
+    "local_path": "data/openimages_images/55bfd8be07f20774.jpg",
+    "width": 1024,
+    "height": 525,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          58.33333275,
+          851.78783744,
+          466.66666725000005
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "e066b73f1cc2a60b",
+    "file_name": "e066b73f1cc2a60b.jpg",
+    "local_path": "data/openimages_images/e066b73f1cc2a60b.jpg",
+    "width": 1024,
+    "height": 678,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          87.21292288,
+          0.0,
+          936.78707712,
+          678.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "4dd149cc55d6c5a0",
+    "file_name": "4dd149cc55d6c5a0.jpg",
+    "local_path": "data/openimages_images/4dd149cc55d6c5a0.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          115.19999999999999,
+          73.6,
+          521.5999872,
+          950.4
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "af36f6a1620e83b5",
+    "file_name": "af36f6a1620e83b5.jpg",
+    "local_path": "data/openimages_images/af36f6a1620e83b5.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          95.19690199,
+          172.17698816,
+          459.36283070999997
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          904.6843904,
+          169.23893762999998,
+          119.31560960000002,
+          126.92920493000001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c914001730777e42",
+    "file_name": "c914001730777e42.jpg",
+    "local_path": "data/openimages_images/c914001730777e42.jpg",
+    "width": 730,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "bottle",
+        "bbox": [
+          125.05353329999998,
+          60.87804928,
+          454.88219169999996,
+          897.56096512
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "aefcdba10604ba9b",
+    "file_name": "aefcdba10604ba9b.jpg",
+    "local_path": "data/openimages_images/aefcdba10604ba9b.jpg",
+    "width": 684,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          204.29203103999998,
+          886.5604608,
+          115.0088544,
+          96.66078719999996
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          307.19468736,
+          895.6224512,
+          83.23011864000001,
+          119.31559935999996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "697d183f7256f917",
+    "file_name": "697d183f7256f917.jpg",
+    "local_path": "data/openimages_images/697d183f7256f917.jpg",
+    "width": 1024,
+    "height": 656,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          139.0982656,
+          146.60044624,
+          418.77453823999997,
+          423.51239952
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "1016d79fb0074923",
+    "file_name": "1016d79fb0074923.jpg",
+    "local_path": "data/openimages_images/1016d79fb0074923.jpg",
+    "width": 1024,
+    "height": 678,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          201.78824192,
+          219.48557712000002,
+          655.05881088,
+          457.01109348
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a54e7bb80448f3b0",
+    "file_name": "a54e7bb80448f3b0.jpg",
+    "local_path": "data/openimages_images/a54e7bb80448f3b0.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          196.79999999999998,
+          184.0,
+          452.80002048
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          3.2,
+          148.8,
+          947.1999999999999,
+          497.59997952000003
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "debf63ec21415073",
+    "file_name": "debf63ec21415073.jpg",
+    "local_path": "data/openimages_images/debf63ec21415073.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "chair",
+        "bbox": [
+          0.0,
+          0.0,
+          163.2,
+          284.80000512000004
+        ]
+      },
+      {
+        "category": "chair",
+        "bbox": [
+          176.0,
+          0.0,
+          224.0,
+          223.99999488000003
+        ]
+      },
+      {
+        "category": "dog",
+        "bbox": [
+          116.8,
+          54.39999744,
+          907.2,
+          713.60000256
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "482f9d5a592240c0",
+    "file_name": "482f9d5a592240c0.jpg",
+    "local_path": "data/openimages_images/482f9d5a592240c0.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          524.8,
+          611.2000128,
+          54.40000000000009,
+          148.79996160000005
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2cf7c74b38bd240e",
+    "file_name": "2cf7c74b38bd240e.jpg",
+    "local_path": "data/openimages_images/2cf7c74b38bd240e.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          0.0,
+          1022.4897024,
+          681.4889308
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2586065fc66bf9ba",
+    "file_name": "2586065fc66bf9ba.jpg",
+    "local_path": "data/openimages_images/2586065fc66bf9ba.jpg",
+    "width": 683,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          0.0,
+          683.0,
+          946.97345024
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "86e14e565ee593c4",
+    "file_name": "86e14e565ee593c4.jpg",
+    "local_path": "data/openimages_images/86e14e565ee593c4.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          44.8,
+          302.4,
+          928.0,
+          387.20002560000006
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          744.0,
+          347.19998976,
+          280.0,
+          172.79998464000005
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "4b2c0522eca825ea",
+    "file_name": "4b2c0522eca825ea.jpg",
+    "local_path": "data/openimages_images/4b2c0522eca825ea.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          0.0,
+          1.5110619602,
+          1024.0,
+          636.1570669398
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "6a0ddf0032b0add5",
+    "file_name": "6a0ddf0032b0add5.jpg",
+    "local_path": "data/openimages_images/6a0ddf0032b0add5.jpg",
+    "width": 1024,
+    "height": 685,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          15.125554176,
+          19.657837505,
+          1001.311642624,
+          659.293612495
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2c1e31e2accd1b5c",
+    "file_name": "2c1e31e2accd1b5c.jpg",
+    "local_path": "data/openimages_images/2c1e31e2accd1b5c.jpg",
+    "width": 1024,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "fork",
+        "bbox": [
+          72.08664064,
+          534.1804544,
+          951.91335936,
+          227.3502208
+        ]
+      },
+      {
+        "category": "fork",
+        "bbox": [
+          369.67507968,
+          432.51986432,
+          654.32492032,
+          190.38266367999995
+        ]
+      },
+      {
+        "category": "fork",
+        "bbox": [
+          471.33575168,
+          255.07580928,
+          552.6642483200001,
+          188.53430272000003
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "13db5fc4ddc3dfd6",
+    "file_name": "13db5fc4ddc3dfd6.jpg",
+    "local_path": "data/openimages_images/13db5fc4ddc3dfd6.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          234.10029568,
+          92.17477725,
+          681.1563315200001,
+          590.82522275
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          253.73451264,
+          0.0,
+          770.26548736,
+          622.5575393500001
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          894.11212288,
+          193.41592872,
+          129.88787711999998,
+          267.45796436
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "aa7a920e45dfaf0a",
+    "file_name": "aa7a920e45dfaf0a.jpg",
+    "local_path": "data/openimages_images/aa7a920e45dfaf0a.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          289.98230016,
+          143.55088417000002,
+          721.93511424,
+          459.36283070999997
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "0ca869d0c8fe8c92",
+    "file_name": "0ca869d0c8fe8c92.jpg",
+    "local_path": "data/openimages_images/0ca869d0c8fe8c92.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          480.0,
+          24.0,
+          291.20000000000005,
+          744.0
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          137.6,
+          0.0,
+          356.79999999999995,
+          630.3999744
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f931e61db43ddd52",
+    "file_name": "f931e61db43ddd52.jpg",
+    "local_path": "data/openimages_images/f931e61db43ddd52.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "boat",
+        "bbox": [
+          251.2,
+          483.19999487999996,
+          536.0,
+          41.60001024000002
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "05758edaa042618a",
+    "file_name": "05758edaa042618a.jpg",
+    "local_path": "data/openimages_images/05758edaa042618a.jpg",
+    "width": 679,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "cake",
+        "bbox": [
+          0.0,
+          114.44706304,
+          679.0,
+          674.63525376
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "7185d2420a25bf76",
+    "file_name": "7185d2420a25bf76.jpg",
+    "local_path": "data/openimages_images/7185d2420a25bf76.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          403.20000000000005,
+          220.8,
+          113.59998719999999,
+          238.39999999999998
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "01f26ca52e27a8d9",
+    "file_name": "01f26ca52e27a8d9.jpg",
+    "local_path": "data/openimages_images/01f26ca52e27a8d9.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          2.285714432,
+          219.42858239999998,
+          148.571429888,
+          267.4285824
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          66.28571136,
+          192.0,
+          116.57143296000001,
+          100.57144320000002
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          128.0,
+          185.14285824,
+          160.0,
+          272.00000256
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          242.2857216,
+          226.28572416,
+          121.14283520000004,
+          345.14286336
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          356.5714432,
+          208.00000511999997,
+          207.99996928000007,
+          244.57143551999997
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          381.71429888,
+          169.14285311999998,
+          70.85714431999997,
+          112.00000511999998
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          518.8571136,
+          288.0,
+          301.71429888,
+          477.7142784
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          717.71429888,
+          253.71427584,
+          224.0,
+          180.57144576
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          877.71429888,
+          226.28572416,
+          114.28570112,
+          144.0
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          950.8571136,
+          372.57142272,
+          70.85718527999995,
+          290.28569087999995
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9cb681898bffdb0b",
+    "file_name": "9cb681898bffdb0b.jpg",
+    "local_path": "data/openimages_images/9cb681898bffdb0b.jpg",
+    "width": 1024,
+    "height": 580,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          96.0,
+          151.606722,
+          851.478272,
+          356.067133
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "ba5eba3c94978097",
+    "file_name": "ba5eba3c94978097.jpg",
+    "local_path": "data/openimages_images/ba5eba3c94978097.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          550.4,
+          534.3999744,
+          75.20000000000005,
+          187.20004608
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          804.8,
+          572.80000512,
+          91.20000000000005,
+          195.19999488
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "ee57bbfb0ebab0a7",
+    "file_name": "ee57bbfb0ebab0a7.jpg",
+    "local_path": "data/openimages_images/ee57bbfb0ebab0a7.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "bed",
+        "bbox": [
+          46.4,
+          251.19998976,
+          630.4,
+          507.20001024
+        ]
+      },
+      {
+        "category": "bed",
+        "bbox": [
+          492.8,
+          254.39999999999998,
+          531.2,
+          510.40000512000006
+        ]
+      },
+      {
+        "category": "bed",
+        "bbox": [
+          723.2,
+          278.4,
+          300.79999999999995,
+          486.40000512000006
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "fdd2cebd058a0a43",
+    "file_name": "fdd2cebd058a0a43.jpg",
+    "local_path": "data/openimages_images/fdd2cebd058a0a43.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          150.4,
+          32.000001024,
+          396.80000000000007,
+          686.399978496
+        ]
+      },
+      {
+        "category": "dog",
+        "bbox": [
+          494.4,
+          113.59999488,
+          529.6,
+          622.39997952
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "bd35cf987a9299cc",
+    "file_name": "bd35cf987a9299cc.jpg",
+    "local_path": "data/openimages_images/bd35cf987a9299cc.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          0.0,
+          684.7999872,
+          672.0
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          486.3999744,
+          0.0,
+          280.00000512,
+          595.2
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "49932d13165fb167",
+    "file_name": "49932d13165fb167.jpg",
+    "local_path": "data/openimages_images/49932d13165fb167.jpg",
+    "width": 1024,
+    "height": 599,
+    "objects": [
+      {
+        "category": "airplane",
+        "bbox": [
+          113.149169664,
+          99.12529936,
+          903.778983936,
+          335.60991234000005
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "8041aa40f427e248",
+    "file_name": "8041aa40f427e248.jpg",
+    "local_path": "data/openimages_images/8041aa40f427e248.jpg",
+    "width": 1024,
+    "height": 678,
+    "objects": [
+      {
+        "category": "tie",
+        "bbox": [
+          518.7665408,
+          390.22666968,
+          75.18353407999996,
+          287.77333032
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "8a2a9026a9f1c0a5",
+    "file_name": "8a2a9026a9f1c0a5.jpg",
+    "local_path": "data/openimages_images/8a2a9026a9f1c0a5.jpg",
+    "width": 1024,
+    "height": 973,
+    "objects": [
+      {
+        "category": "boat",
+        "bbox": [
+          333.52112128,
+          122.52592988999999,
+          398.42253824,
+          699.1185199600001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "8bbe28c450c78b4b",
+    "file_name": "8bbe28c450c78b4b.jpg",
+    "local_path": "data/openimages_images/8bbe28c450c78b4b.jpg",
+    "width": 1024,
+    "height": 849,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          40.421051392,
+          154.97619681,
+          409.263152128,
+          628.3273681499999
+        ]
+      },
+      {
+        "category": "dog",
+        "bbox": [
+          495.15789312,
+          89.27976177000001,
+          400.84210688,
+          493.56547929000004
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          111.15789824,
+          8.422619115,
+          146.52630527999997,
+          82.541669025
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          232.42104832,
+          23.583333522,
+          144.84210688000002,
+          84.226192848
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          390.7368448,
+          25.267857345000003,
+          293.05267200000003,
+          129.708339465
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "fa2979817859e9c0",
+    "file_name": "fa2979817859e9c0.jpg",
+    "local_path": "data/openimages_images/fa2979817859e9c0.jpg",
+    "width": 1024,
+    "height": 940,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          43.52,
+          443.106271,
+          921.6,
+          496.893729
+        ]
+      },
+      {
+        "category": "dog",
+        "bbox": [
+          202.24,
+          43.54223444,
+          509.43999999999994,
+          591.6621075600001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "4a7c45f71816b7fe",
+    "file_name": "4a7c45f71816b7fe.jpg",
+    "local_path": "data/openimages_images/4a7c45f71816b7fe.jpg",
+    "width": 1024,
+    "height": 680,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          15.07760464,
+          123.482353664,
+          262.35033216
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          731.8588416,
+          230.6873616,
+          93.36466431999997,
+          105.543242
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "5c3c465350e25bee",
+    "file_name": "5c3c465350e25bee.jpg",
+    "local_path": "data/openimages_images/5c3c465350e25bee.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "bicycle",
+        "bbox": [
+          0.0,
+          388.3429403,
+          462.15929856,
+          294.6570597
+        ]
+      },
+      {
+        "category": "bicycle",
+        "bbox": [
+          92.129792,
+          48.35398218,
+          791.41000192,
+          607.44690882
+        ]
+      },
+      {
+        "category": "bicycle",
+        "bbox": [
+          898.6430464,
+          241.7699109,
+          125.3569536,
+          409.4978066499999
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "0e8a77476cbcb3a6",
+    "file_name": "0e8a77476cbcb3a6.jpg",
+    "local_path": "data/openimages_images/0e8a77476cbcb3a6.jpg",
+    "width": 768,
+    "height": 768,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          0.0,
+          0.0,
+          768.0,
+          654.3249408
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "809a9c3af507dbfc",
+    "file_name": "809a9c3af507dbfc.jpg",
+    "local_path": "data/openimages_images/809a9c3af507dbfc.jpg",
+    "width": 1024,
+    "height": 685,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          155.79321344,
+          189.01765329999998,
+          679.13737216,
+          331.15894820000005
+        ]
+      },
+      {
+        "category": "tennis racket",
+        "bbox": [
+          403.852288,
+          229.84546855000002,
+          117.97934079999999,
+          127.01987195000001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "955a8e4c8ba8116e",
+    "file_name": "955a8e4c8ba8116e.jpg",
+    "local_path": "data/openimages_images/955a8e4c8ba8116e.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          1.6,
+          120.0,
+          240.0,
+          286.39997952
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          48.0,
+          35.200000512,
+          974.4,
+          732.799999488
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "fa51b8026b5fa585",
+    "file_name": "fa51b8026b5fa585.jpg",
+    "local_path": "data/openimages_images/fa51b8026b5fa585.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "bear",
+        "bbox": [
+          0.0,
+          250.83628512,
+          838.2301184,
+          412.51988358
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "6841027fe89d985d",
+    "file_name": "6841027fe89d985d.jpg",
+    "local_path": "data/openimages_images/6841027fe89d985d.jpg",
+    "width": 1024,
+    "height": 680,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          215.34116864,
+          0.0,
+          374.9647257600001,
+          524.700648
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "88a2ef79752539c2",
+    "file_name": "88a2ef79752539c2.jpg",
+    "local_path": "data/openimages_images/88a2ef79752539c2.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          126.86725632,
+          0.0,
+          647.92919552,
+          683.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "424fa792da98deb9",
+    "file_name": "424fa792da98deb9.jpg",
+    "local_path": "data/openimages_images/424fa792da98deb9.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "boat",
+        "bbox": [
+          236.8,
+          8.000000256,
+          500.8,
+          702.3999997440001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "1f59e128787f0050",
+    "file_name": "1f59e128787f0050.jpg",
+    "local_path": "data/openimages_images/1f59e128787f0050.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          43.2,
+          139.2,
+          952.0,
+          457.60000512
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "bfc816ac4c77882e",
+    "file_name": "bfc816ac4c77882e.jpg",
+    "local_path": "data/openimages_images/bfc816ac4c77882e.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          160.09439232,
+          61.953540095,
+          841.25073408,
+          562.115034305
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "5ad4c95662d2601e",
+    "file_name": "5ad4c95662d2601e.jpg",
+    "local_path": "data/openimages_images/5ad4c95662d2601e.jpg",
+    "width": 683,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          15.110619602000002,
+          0.0,
+          667.889380398,
+          499.91739392
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          111.81858122999999,
+          465.17993472,
+          347.5442358199999,
+          558.82006528
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          231.19248114,
+          492.36578304,
+          451.80751885999996,
+          347.37463296
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          282.56858805999997,
+          296.02359296,
+          400.43141194000003,
+          441.01474304
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "ef7d022edc6493a3",
+    "file_name": "ef7d022edc6493a3.jpg",
+    "local_path": "data/openimages_images/ef7d022edc6493a3.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "truck",
+        "bbox": [
+          0.0,
+          299.19998976,
+          276.8,
+          256.00000511999997
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2a602f8c499c7de9",
+    "file_name": "2a602f8c499c7de9.jpg",
+    "local_path": "data/openimages_images/2a602f8c499c7de9.jpg",
+    "width": 1024,
+    "height": 686,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          143.69276928,
+          258.95365356,
+          732.07682048,
+          210.49446263999997
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9e65b70f0a3ebf49",
+    "file_name": "9e65b70f0a3ebf49.jpg",
+    "local_path": "data/openimages_images/9e65b70f0a3ebf49.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          157.07374592,
+          240.25885536,
+          243.16224512,
+          191.90485951999997
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          397.2153344,
+          231.19248114,
+          179.72863999999998,
+          193.41591506000003
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          604.129792,
+          219.10398218,
+          197.85250816000007,
+          200.97123374
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          797.4513664,
+          238.74778616,
+          149.52208384000005,
+          175.28319394
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2a348a08680a77f2",
+    "file_name": "2a348a08680a77f2.jpg",
+    "local_path": "data/openimages_images/2a348a08680a77f2.jpg",
+    "width": 1024,
+    "height": 682,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          78.53687296,
+          172.00884316,
+          869.94691584,
+          401.35398556
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "27a9c5716957df08",
+    "file_name": "27a9c5716957df08.jpg",
+    "local_path": "data/openimages_images/27a9c5716957df08.jpg",
+    "width": 1024,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          31.42238208,
+          31.42238208,
+          953.7617715199999,
+          689.44407552
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "24e7a124ecb7ef0f",
+    "file_name": "24e7a124ecb7ef0f.jpg",
+    "local_path": "data/openimages_images/24e7a124ecb7ef0f.jpg",
+    "width": 1024,
+    "height": 681,
+    "objects": [
+      {
+        "category": "wine glass",
+        "bbox": [
+          42.226802688,
+          0.0,
+          521.802678272,
+          681.0
+        ]
+      },
+      {
+        "category": "wine glass",
+        "bbox": [
+          482.5920512,
+          75.49888794,
+          285.03091199999994,
+          605.50111206
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "494e6ab522ea8a46",
+    "file_name": "494e6ab522ea8a46.jpg",
+    "local_path": "data/openimages_images/494e6ab522ea8a46.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          84.8,
+          308.80000512000004,
+          852.8000000000001,
+          286.39999488
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "661a10686c2151f3",
+    "file_name": "661a10686c2151f3.jpg",
+    "local_path": "data/openimages_images/661a10686c2151f3.jpg",
+    "width": 1024,
+    "height": 680,
+    "objects": [
+      {
+        "category": "truck",
+        "bbox": [
+          176.18823168,
+          105.54323520000001,
+          331.29412608,
+          271.3969012
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "3fa31def321e10bf",
+    "file_name": "3fa31def321e10bf.jpg",
+    "local_path": "data/openimages_images/3fa31def321e10bf.jpg",
+    "width": 1024,
+    "height": 745,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          126.22495744,
+          45.77330362,
+          695.81510656,
+          699.22669638
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c61866ee67153b4f",
+    "file_name": "c61866ee67153b4f.jpg",
+    "local_path": "data/openimages_images/c61866ee67153b4f.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          142.40000256000002,
+          203.2,
+          63.99999743999999
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          187.2,
+          809.6,
+          580.8
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          112.0,
+          113.59999488,
+          155.2,
+          67.20000768
+        ]
+      },
+      {
+        "category": "motorcycle",
+        "bbox": [
+          480.0,
+          190.40000256000002,
+          384.0,
+          257.59997184
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          350.4,
+          102.40000512,
+          86.40000000000003,
+          203.19999744
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "470765ac3f22b85c",
+    "file_name": "470765ac3f22b85c.jpg",
+    "local_path": "data/openimages_images/470765ac3f22b85c.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          173.68731648,
+          0.0,
+          797.45134592,
+          679.97789575
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "879be6d00e75b31f",
+    "file_name": "879be6d00e75b31f.jpg",
+    "local_path": "data/openimages_images/879be6d00e75b31f.jpg",
+    "width": 1024,
+    "height": 401,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          352.90395648,
+          97.35259856,
+          335.54803712000006,
+          303.64740144
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2c1f055d4f648e4b",
+    "file_name": "2c1f055d4f648e4b.jpg",
+    "local_path": "data/openimages_images/2c1f055d4f648e4b.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          292.79999999999995,
+          240.0,
+          470.40000000000003
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          25.6,
+          352.00000511999997,
+          566.4,
+          414.3999744000001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "ff87cf0257696229",
+    "file_name": "ff87cf0257696229.jpg",
+    "local_path": "data/openimages_images/ff87cf0257696229.jpg",
+    "width": 1024,
+    "height": 640,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          7.3038516224,
+          21.917808,
+          1006.4707506176001,
+          596.1643936
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "124d86a6d3953a13",
+    "file_name": "124d86a6d3953a13.jpg",
+    "local_path": "data/openimages_images/124d86a6d3953a13.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          638.4,
+          291.19999487999996,
+          196.80000000000007,
+          211.19998464000003
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "94fe043d0acc2608",
+    "file_name": "94fe043d0acc2608.jpg",
+    "local_path": "data/openimages_images/94fe043d0acc2608.jpg",
+    "width": 1024,
+    "height": 680,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          0.0,
+          361.4117888,
+          680.0
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          192.7529472,
+          72.37250879999999,
+          337.31768320000003,
+          568.4256952000001
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          328.28234752,
+          300.0443424,
+          242.44708352000004,
+          138.7139616
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "942c4b379cd0bcf5",
+    "file_name": "942c4b379cd0bcf5.jpg",
+    "local_path": "data/openimages_images/942c4b379cd0bcf5.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          84.799999488,
+          148.8,
+          520.000000512,
+          537.5999999999999
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9a4577b0e3447ab7",
+    "file_name": "9a4577b0e3447ab7.jpg",
+    "local_path": "data/openimages_images/9a4577b0e3447ab7.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          91.2,
+          0.0,
+          734.4,
+          441.59999999999997
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "25d19e868909e5e2",
+    "file_name": "25d19e868909e5e2.jpg",
+    "local_path": "data/openimages_images/25d19e868909e5e2.jpg",
+    "width": 1024,
+    "height": 681,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          129.85809216,
+          294.07952896,
+          341.25498384
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          70.88070656,
+          46.80931134,
+          885.25481984,
+          549.63194016
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "d0efce8bae032854",
+    "file_name": "d0efce8bae032854.jpg",
+    "local_path": "data/openimages_images/d0efce8bae032854.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          148.8,
+          55.999997952,
+          708.8,
+          542.399981568
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          678.4,
+          43.2,
+          204.80000000000007,
+          177.6
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "687e754baca6f72b",
+    "file_name": "687e754baca6f72b.jpg",
+    "local_path": "data/openimages_images/687e754baca6f72b.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          22.4,
+          38.400000000000006,
+          132.79999999999998,
+          71.99999999999999
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          62.4,
+          110.39999999999999,
+          868.8000000000001,
+          559.9999795200001
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          742.4,
+          24.0,
+          281.6,
+          174.39999744000002
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "18ced18aee04c48e",
+    "file_name": "18ced18aee04c48e.jpg",
+    "local_path": "data/openimages_images/18ced18aee04c48e.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "bed",
+        "bbox": [
+          0.0,
+          0.0,
+          1024.0,
+          683.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "270a8d5950fb0ae7",
+    "file_name": "270a8d5950fb0ae7.jpg",
+    "local_path": "data/openimages_images/270a8d5950fb0ae7.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          0.0,
+          105.77433858,
+          749.1209728,
+          577.2256614199999
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9a6d720df597c470",
+    "file_name": "9a6d720df597c470.jpg",
+    "local_path": "data/openimages_images/9a6d720df597c470.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          388.8,
+          201.60000000000002,
+          214.40000000000003,
+          491.20000511999996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "3f1987068db4a570",
+    "file_name": "3f1987068db4a570.jpg",
+    "local_path": "data/openimages_images/3f1987068db4a570.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "giraffe",
+        "bbox": [
+          379.2,
+          180.80000256,
+          216.00000000000006,
+          587.1999974400001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f24929aff8c7b260",
+    "file_name": "f24929aff8c7b260.jpg",
+    "local_path": "data/openimages_images/f24929aff8c7b260.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          44.8,
+          367.99999488000003,
+          972.8000000000001,
+          353.6000256
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9ec8d039ae01d728",
+    "file_name": "9ec8d039ae01d728.jpg",
+    "local_path": "data/openimages_images/9ec8d039ae01d728.jpg",
+    "width": 681,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          27.179600067,
+          137.23710464,
+          320.115281733,
+          737.4609305600001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "cf3e8513eb86c6fc",
+    "file_name": "cf3e8513eb86c6fc.jpg",
+    "local_path": "data/openimages_images/cf3e8513eb86c6fc.jpg",
+    "width": 1024,
+    "height": 654,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          13.509234688,
+          70.26445854,
+          807.852224512,
+          545.90082396
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "8d564c372d0f2b4e",
+    "file_name": "8d564c372d0f2b4e.jpg",
+    "local_path": "data/openimages_images/8d564c372d0f2b4e.jpg",
+    "width": 1024,
+    "height": 662,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          0.0,
+          154.5660416,
+          365.959558
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          184.29028352,
+          14.87640442,
+          717.84030208,
+          541.50113148
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          613.805568,
+          22.314606629999997,
+          109.979648,
+          90.74606299
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          705.95067904,
+          0.0,
+          318.04932096000005,
+          365.959558
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a2d5b0f323dfee30",
+    "file_name": "a2d5b0f323dfee30.jpg",
+    "local_path": "data/openimages_images/a2d5b0f323dfee30.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          83.067848704,
+          241.7699109,
+          573.923280896,
+          318.8340986
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "638b8e2a586831b4",
+    "file_name": "638b8e2a586831b4.jpg",
+    "local_path": "data/openimages_images/638b8e2a586831b4.jpg",
+    "width": 1024,
+    "height": 681,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          24.12960256,
+          90.39822816,
+          983.2812902400001,
+          540.8827518
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "d025041fb7153fc9",
+    "file_name": "d025041fb7153fc9.jpg",
+    "local_path": "data/openimages_images/d025041fb7153fc9.jpg",
+    "width": 1024,
+    "height": 678,
+    "objects": [
+      {
+        "category": "airplane",
+        "bbox": [
+          40.658825216,
+          153.33923946,
+          844.7999754240001,
+          377.33481833999997
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f25340aa4ed65613",
+    "file_name": "f25340aa4ed65613.jpg",
+    "local_path": "data/openimages_images/f25340aa4ed65613.jpg",
+    "width": 1024,
+    "height": 661,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          135.17079179,
+          927.3962496,
+          525.8292082099999
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          62.42089984,
+          117.34606088000001,
+          691.0885785600001,
+          243.60449052
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "66b61167713c3a91",
+    "file_name": "66b61167713c3a91.jpg",
+    "local_path": "data/openimages_images/66b61167713c3a91.jpg",
+    "width": 1024,
+    "height": 685,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          650.3988224,
+          0.0,
+          81.67795711999997,
+          101.31347279999999
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "1e6e75488d7878aa",
+    "file_name": "1e6e75488d7878aa.jpg",
+    "local_path": "data/openimages_images/1e6e75488d7878aa.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          51.2,
+          252.80001024,
+          619.1999999999999,
+          324.80001024
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          648.0,
+          280.00000511999997,
+          278.4,
+          179.19998976
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "12af3fd6bebee2e9",
+    "file_name": "12af3fd6bebee2e9.jpg",
+    "local_path": "data/openimages_images/12af3fd6bebee2e9.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          0.0,
+          1024.0,
+          683.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "75489b3b21039330",
+    "file_name": "75489b3b21039330.jpg",
+    "local_path": "data/openimages_images/75489b3b21039330.jpg",
+    "width": 1024,
+    "height": 556,
+    "objects": [
+      {
+        "category": "horse",
+        "bbox": [
+          89.992011776,
+          182.60784172,
+          366.78561382400005,
+          336.59802428
+        ]
+      },
+      {
+        "category": "horse",
+        "bbox": [
+          508.5912064,
+          211.22550088,
+          353.150464,
+          313.43138912
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          12.271637504,
+          39.519609859999996,
+          49.08655104,
+          164.89214994
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          38.17842688,
+          49.0588268,
+          43.63249664,
+          156.71567232
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          80.44740608,
+          28.61764804,
+          72.26631168000002,
+          171.70587156000002
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          155.44075264,
+          46.333334816,
+          47.723038720000005,
+          153.990184784
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          208.61784064,
+          49.0588268,
+          36.81490944000001,
+          160.80391251999998
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          229.07057152,
+          88.57842832,
+          134.98802176000004,
+          347.50001112
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          289.06524672,
+          24.5294134,
+          64.08521728,
+          143.08822908
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          398.14648832,
+          44.970589936,
+          73.62981888000002,
+          163.52941006400002
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          414.50866688,
+          256.19608192000004,
+          245.43270911999997,
+          185.33330367999997
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          460.86816768,
+          9.539216384000001,
+          80.44738560000002,
+          198.96078361600001
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          522.2263808,
+          20.441177092,
+          70.902784,
+          190.784323788
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          584.94806016,
+          9.539216384000001,
+          79.0839193600001,
+          204.41176313600002
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          666.7589632,
+          12.264706144,
+          85.90151679999997,
+          198.960794736
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          751.2969216,
+          21.803922527999998,
+          83.17445120000002,
+          192.147056992
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          814.0186112,
+          19.078432212000003,
+          81.81099519999998,
+          110.382348068
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "fe7748af45bac1ae",
+    "file_name": "fe7748af45bac1ae.jpg",
+    "local_path": "data/openimages_images/fe7748af45bac1ae.jpg",
+    "width": 1024,
+    "height": 435,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          89.6,
+          79.96323555000001,
+          120.0,
+          350.23897545000005
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          713.6,
+          1.599264711,
+          310.4,
+          396.617639889
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "31a9c2c4a273f156",
+    "file_name": "31a9c2c4a273f156.jpg",
+    "local_path": "data/openimages_images/31a9c2c4a273f156.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          756.8,
+          649.60002048,
+          86.40000000000009,
+          102.40000511999997
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          812.8,
+          512.0000256,
+          51.200000000000045,
+          166.39994880000003
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          916.8,
+          507.19999487999996,
+          70.40000000000009,
+          192.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "3ca305f0d6d5fabe",
+    "file_name": "3ca305f0d6d5fabe.jpg",
+    "local_path": "data/openimages_images/3ca305f0d6d5fabe.jpg",
+    "width": 1024,
+    "height": 679,
+    "objects": [
+      {
+        "category": "truck",
+        "bbox": [
+          0.0,
+          0.0,
+          871.9058944,
+          679.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "17de3cf86b72b16e",
+    "file_name": "17de3cf86b72b16e.jpg",
+    "local_path": "data/openimages_images/17de3cf86b72b16e.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "cat",
+        "bbox": [
+          172.8,
+          388.79999999999995,
+          625.5999999999999,
+          350.40000000000003
+        ]
+      },
+      {
+        "category": "cat",
+        "bbox": [
+          244.8,
+          22.400000256,
+          579.2,
+          220.79999462400002
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "b8b257759bd16b1e",
+    "file_name": "b8b257759bd16b1e.jpg",
+    "local_path": "data/openimages_images/b8b257759bd16b1e.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          587.2,
+          305.60000256,
+          190.39999999999998,
+          70.40000256
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          598.4,
+          676.8,
+          172.80000000000007,
+          75.20002559999998
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c9a2767147d5855d",
+    "file_name": "c9a2767147d5855d.jpg",
+    "local_path": "data/openimages_images/c9a2767147d5855d.jpg",
+    "width": 1024,
+    "height": 576,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          624.9309696,
+          65.23373376,
+          263.27472128,
+          62.45783423999999
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          663.7293568,
+          65.23373376,
+          218.93372927999997,
+          37.474704
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2f2f0fd002fb54c6",
+    "file_name": "2f2f0fd002fb54c6.jpg",
+    "local_path": "data/openimages_images/2f2f0fd002fb54c6.jpg",
+    "width": 1024,
+    "height": 689,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          239.69184768,
+          57.66960316,
+          782.79109632,
+          629.81278477
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "7cb8623114c82667",
+    "file_name": "7cb8623114c82667.jpg",
+    "local_path": "data/openimages_images/7cb8623114c82667.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          321.6991232,
+          365.67699792,
+          78.53686784000001,
+          98.21899257999995
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          374.56048128,
+          222.12610692,
+          58.90265088000001,
+          146.57300208
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          433.46313216,
+          312.7898218,
+          84.57816063999996,
+          135.99557231999998
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          548.24779776,
+          382.29866350000003,
+          148.01178624,
+          219.10397535
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          696.259584,
+          285.5907128,
+          74.00591359999999,
+          102.75222750000002
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          854.84362752,
+          488.07300208,
+          132.90857471999993,
+          169.23895811999998
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          869.94688,
+          596.8694654000001,
+          87.59883776000004,
+          86.13053459999996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "01267ff8f7cfcdbd",
+    "file_name": "01267ff8f7cfcdbd.jpg",
+    "local_path": "data/openimages_images/01267ff8f7cfcdbd.jpg",
+    "width": 1024,
+    "height": 688,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          81.7988096,
+          77.2863424,
+          677.1124735999999,
+          569.79735504
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "7e0e65a69143a553",
+    "file_name": "7e0e65a69143a553.jpg",
+    "local_path": "data/openimages_images/7e0e65a69143a553.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          267.19999487999996,
+          412.8,
+          259.19998464,
+          252.8
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "67ebcfe090890ef6",
+    "file_name": "67ebcfe090890ef6.jpg",
+    "local_path": "data/openimages_images/67ebcfe090890ef6.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "boat",
+        "bbox": [
+          22.4,
+          91.19999999999999,
+          937.6,
+          472.0000128
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "536c39768f11b471",
+    "file_name": "536c39768f11b471.jpg",
+    "local_path": "data/openimages_images/536c39768f11b471.jpg",
+    "width": 1024,
+    "height": 688,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          239.33727744,
+          80.31717848,
+          487.76331264,
+          539.48898392
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "40aa64a17297cf66",
+    "file_name": "40aa64a17297cf66.jpg",
+    "local_path": "data/openimages_images/40aa64a17297cf66.jpg",
+    "width": 818,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          0.0,
+          67.71612672,
+          662.66264254,
+          956.28387328
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "5f98a6a9fcb28e04",
+    "file_name": "5f98a6a9fcb28e04.jpg",
+    "local_path": "data/openimages_images/5f98a6a9fcb28e04.jpg",
+    "width": 1024,
+    "height": 755,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          554.07128576,
+          316.30526435,
+          312.75659264,
+          274.97895015
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "792df257e39f4750",
+    "file_name": "792df257e39f4750.jpg",
+    "local_path": "data/openimages_images/792df257e39f4750.jpg",
+    "width": 1024,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "bottle",
+        "bbox": [
+          138.62815744,
+          31.42238208,
+          107.20577536000002,
+          203.32130304
+        ]
+      },
+      {
+        "category": "bottle",
+        "bbox": [
+          273.55957248,
+          16.635379712,
+          123.84115711999999,
+          306.830317568
+        ]
+      },
+      {
+        "category": "bottle",
+        "bbox": [
+          449.15524608,
+          105.35739904,
+          68.38985728,
+          199.62456576
+        ]
+      },
+      {
+        "category": "bottle",
+        "bbox": [
+          458.39712256,
+          22.1805056,
+          395.55231743999997,
+          458.39710208
+        ]
+      },
+      {
+        "category": "wine glass",
+        "bbox": [
+          105.35739904,
+          391.85559552,
+          787.40791808,
+          604.4187852800001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9fcba17c3636e71c",
+    "file_name": "9fcba17c3636e71c.jpg",
+    "local_path": "data/openimages_images/9fcba17c3636e71c.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          156.8,
+          1.6000000511999999,
+          353.59999999999997,
+          295.9999999488
+        ]
+      },
+      {
+        "category": "bird",
+        "bbox": [
+          608.0,
+          28.799999999999997,
+          347.20000000000005,
+          132.79999487999999
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "775efcd4846a7744",
+    "file_name": "775efcd4846a7744.jpg",
+    "local_path": "data/openimages_images/775efcd4846a7744.jpg",
+    "width": 1024,
+    "height": 552,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          0.0,
+          1022.643712,
+          496.2561696
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "bf52a894cd7a0a6f",
+    "file_name": "bf52a894cd7a0a6f.jpg",
+    "local_path": "data/openimages_images/bf52a894cd7a0a6f.jpg",
+    "width": 1024,
+    "height": 655,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          17.742664235,
+          395.0982656,
+          313.453743115
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          26.63583744,
+          82.7991002,
+          992.9248153599999,
+          563.3295798
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "66d92ff719218d48",
+    "file_name": "66d92ff719218d48.jpg",
+    "local_path": "data/openimages_images/66d92ff719218d48.jpg",
+    "width": 1024,
+    "height": 575,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          45.72665856,
+          9.69879525,
+          924.23276544,
+          522.34939475
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c94582f44b84bb6a",
+    "file_name": "c94582f44b84bb6a.jpg",
+    "local_path": "data/openimages_images/c94582f44b84bb6a.jpg",
+    "width": 1024,
+    "height": 701,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          438.4,
+          307.28766816,
+          156.80000000000007,
+          144.04108743999998
+        ]
+      },
+      {
+        "category": "surfboard",
+        "bbox": [
+          406.4,
+          392.11187874,
+          158.39999999999998,
+          73.62102485999996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "3000667e77882c44",
+    "file_name": "3000667e77882c44.jpg",
+    "local_path": "data/openimages_images/3000667e77882c44.jpg",
+    "width": 721,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          0.0,
+          719.44946066,
+          1022.4484864
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "86beba424918c6e8",
+    "file_name": "86beba424918c6e8.jpg",
+    "local_path": "data/openimages_images/86beba424918c6e8.jpg",
+    "width": 1024,
+    "height": 780,
+    "objects": [
+      {
+        "category": "bird",
+        "bbox": [
+          79.01732864,
+          61.366460999999994,
+          840.1637785600001,
+          610.4347938
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "0fd512f1bffb8cf3",
+    "file_name": "0fd512f1bffb8cf3.jpg",
+    "local_path": "data/openimages_images/0fd512f1bffb8cf3.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          88.0,
+          104.00000255999998,
+          364.8,
+          281.60001791999997
+        ]
+      },
+      {
+        "category": "dog",
+        "bbox": [
+          408.0,
+          185.59999488,
+          331.20000000000005,
+          212.80000512
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          0.0,
+          1022.4,
+          766.39997952
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "59759fb1d7d62a4f",
+    "file_name": "59759fb1d7d62a4f.jpg",
+    "local_path": "data/openimages_images/59759fb1d7d62a4f.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          192.0,
+          180.80000256,
+          377.6,
+          275.19999744
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "b3ba78637aed819f",
+    "file_name": "b3ba78637aed819f.jpg",
+    "local_path": "data/openimages_images/b3ba78637aed819f.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          137.6,
+          121.59999744,
+          443.19999999999993,
+          596.7999820800001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "874e07fc9efe51a9",
+    "file_name": "874e07fc9efe51a9.jpg",
+    "local_path": "data/openimages_images/874e07fc9efe51a9.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          51.351031808,
+          48.35398218,
+          913.746337792,
+          616.5132557200001
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "d75e4915aac510d7",
+    "file_name": "d75e4915aac510d7.jpg",
+    "local_path": "data/openimages_images/d75e4915aac510d7.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          249.20353792,
+          9.066371488,
+          724.95576064,
+          584.7809896619999
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "b0971e0d96c46602",
+    "file_name": "b0971e0d96c46602.jpg",
+    "local_path": "data/openimages_images/b0971e0d96c46602.jpg",
+    "width": 1024,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          49.90613504,
+          1020.30322688,
+          805.89172736
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "7201baca749f301f",
+    "file_name": "7201baca749f301f.jpg",
+    "local_path": "data/openimages_images/7201baca749f301f.jpg",
+    "width": 768,
+    "height": 768,
+    "objects": [
+      {
+        "category": "bottle",
+        "bbox": [
+          123.37906176,
+          332.707584,
+          123.37906176,
+          338.25269760000003
+        ]
+      },
+      {
+        "category": "bottle",
+        "bbox": [
+          547.58120448,
+          331.32129024,
+          128.92419072000004,
+          350.72921855999994
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "3a71be7ae113e593",
+    "file_name": "3a71be7ae113e593.jpg",
+    "local_path": "data/openimages_images/3a71be7ae113e593.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "chair",
+        "bbox": [
+          113.6,
+          419.20001279999997,
+          120.0,
+          295.9999872
+        ]
+      },
+      {
+        "category": "chair",
+        "bbox": [
+          126.4,
+          500.80000512000004,
+          328.0,
+          267.19999487999996
+        ]
+      },
+      {
+        "category": "chair",
+        "bbox": [
+          364.8,
+          409.60002048,
+          196.8,
+          308.79995904000003
+        ]
+      },
+      {
+        "category": "chair",
+        "bbox": [
+          441.6,
+          456.0,
+          249.60000000000002,
+          308.80000512000004
+        ]
+      },
+      {
+        "category": "chair",
+        "bbox": [
+          499.2,
+          680.0000256,
+          168.00000000000006,
+          87.99997440000004
+        ]
+      },
+      {
+        "category": "chair",
+        "bbox": [
+          806.4,
+          399.99997440000004,
+          177.60000000000002,
+          244.80003071999997
+        ]
+      },
+      {
+        "category": "chair",
+        "bbox": [
+          926.4,
+          392.00002559999996,
+          97.60000000000002,
+          185.59999488000003
+        ]
+      },
+      {
+        "category": "chair",
+        "bbox": [
+          979.2,
+          480.0,
+          44.799999999999955,
+          176.00002559999996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a03a6c26b95bb3d1",
+    "file_name": "a03a6c26b95bb3d1.jpg",
+    "local_path": "data/openimages_images/a03a6c26b95bb3d1.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          166.4,
+          28.799999999999997,
+          80.0,
+          179.20000512
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f6fdf037a026d22c",
+    "file_name": "f6fdf037a026d22c.jpg",
+    "local_path": "data/openimages_images/f6fdf037a026d22c.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          94.4,
+          308.80000512000004,
+          483.20000000000005,
+          211.19996928000003
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          481.6,
+          302.4,
+          424.0,
+          247.99997952
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "79a8e9cae9182c30",
+    "file_name": "79a8e9cae9182c30.jpg",
+    "local_path": "data/openimages_images/79a8e9cae9182c30.jpg",
+    "width": 768,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "bicycle",
+        "bbox": [
+          0.0,
+          376.0,
+          78.39999743999999,
+          648.0
+        ]
+      },
+      {
+        "category": "bicycle",
+        "bbox": [
+          11.199999744,
+          20.8,
+          542.400020736,
+          1003.2
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          43.2,
+          598.4,
+          379.20000000000005,
+          425.6
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "6b5ea4bc3bb08367",
+    "file_name": "6b5ea4bc3bb08367.jpg",
+    "local_path": "data/openimages_images/6b5ea4bc3bb08367.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "boat",
+        "bbox": [
+          0.0,
+          0.0,
+          1024.0,
+          768.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "2d85b29553517db6",
+    "file_name": "2d85b29553517db6.jpg",
+    "local_path": "data/openimages_images/2d85b29553517db6.jpg",
+    "width": 1024,
+    "height": 969,
+    "objects": [
+      {
+        "category": "sandwich",
+        "bbox": [
+          1.7996485632,
+          0.0,
+          1022.2003514368,
+          969.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "9a74acdffbee35ad",
+    "file_name": "9a74acdffbee35ad.jpg",
+    "local_path": "data/openimages_images/9a74acdffbee35ad.jpg",
+    "width": 1024,
+    "height": 681,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          268.44183552,
+          201.88938258000002,
+          609.2724633600001,
+          479.11061742000004
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "a6a19c69c354a604",
+    "file_name": "a6a19c69c354a604.jpg",
+    "local_path": "data/openimages_images/a6a19c69c354a604.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          234.10029568,
+          297.6791981,
+          530.12390912,
+          347.54427680000003
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          214.46607872,
+          299.19026729999996,
+          66.45427199999997,
+          182.83848530000006
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "c2bf3f54279a6fa8",
+    "file_name": "c2bf3f54279a6fa8.jpg",
+    "local_path": "data/openimages_images/c2bf3f54279a6fa8.jpg",
+    "width": 1024,
+    "height": 680,
+    "objects": [
+      {
+        "category": "cake",
+        "bbox": [
+          194.25882112,
+          108.5587564,
+          739.38823168,
+          563.9024508
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "732d633744e9176c",
+    "file_name": "732d633744e9176c.jpg",
+    "local_path": "data/openimages_images/732d633744e9176c.jpg",
+    "width": 1024,
+    "height": 690,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          189.70803420000001,
+          223.26557696,
+          500.29196579999996
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          194.72787456,
+          77.2262766,
+          481.7836032,
+          612.7737234
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          597.61309696,
+          73.8686124,
+          308.87870464,
+          616.1313875999999
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          723.5147776,
+          0.0,
+          203.1212544,
+          527.153307
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          799.05572864,
+          139.34306429999998,
+          224.94427136000002,
+          360.9488877
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "46bf3fc2fdbf2f7c",
+    "file_name": "46bf3fc2fdbf2f7c.jpg",
+    "local_path": "data/openimages_images/46bf3fc2fdbf2f7c.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "cake",
+        "bbox": [
+          45.056,
+          71.680000512,
+          956.4159999999999,
+          614.399973888
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f9cc72cc7633d85c",
+    "file_name": "f9cc72cc7633d85c.jpg",
+    "local_path": "data/openimages_images/f9cc72cc7633d85c.jpg",
+    "width": 680,
+    "height": 1024,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          51.2,
+          675.4767079999999,
+          971.29413632
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          159.62353664,
+          256.3192884,
+          627.95293696
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "823a5271f8aec09b",
+    "file_name": "823a5271f8aec09b.jpg",
+    "local_path": "data/openimages_images/823a5271f8aec09b.jpg",
+    "width": 1024,
+    "height": 685,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          287.38552832,
+          98.2891841,
+          736.61447168,
+          586.7108159
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "fdb6bb167c6164bc",
+    "file_name": "fdb6bb167c6164bc.jpg",
+    "local_path": "data/openimages_images/fdb6bb167c6164bc.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "boat",
+        "bbox": [
+          43.2,
+          137.88726528,
+          849.5999999999999,
+          331.89142272
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "202487fc0ba87722",
+    "file_name": "202487fc0ba87722.jpg",
+    "local_path": "data/openimages_images/202487fc0ba87722.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "bottle",
+        "bbox": [
+          356.8,
+          97.59999744,
+          334.40000000000003,
+          595.20000768
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "10be3f29312a3b84",
+    "file_name": "10be3f29312a3b84.jpg",
+    "local_path": "data/openimages_images/10be3f29312a3b84.jpg",
+    "width": 1024,
+    "height": 1011,
+    "objects": [
+      {
+        "category": "dog",
+        "bbox": [
+          69.85996288,
+          77.20364004,
+          847.51168512,
+          895.19451972
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "779aa089b46c110c",
+    "file_name": "779aa089b46c110c.jpg",
+    "local_path": "data/openimages_images/779aa089b46c110c.jpg",
+    "width": 1024,
+    "height": 730,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          98.34145792,
+          353.2762292,
+          522.926848,
+          179.76444180000001
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          613.4634496,
+          342.3340475,
+          324.68291583999996,
+          162.5696057
+        ]
+      },
+      {
+        "category": "car",
+        "bbox": [
+          727.41460992,
+          339.20771299999996,
+          165.46341888000006,
+          50.02138850000005
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "f41a46140ecfda0b",
+    "file_name": "f41a46140ecfda0b.jpg",
+    "local_path": "data/openimages_images/f41a46140ecfda0b.jpg",
+    "width": 1024,
+    "height": 684,
+    "objects": [
+      {
+        "category": "person",
+        "bbox": [
+          323.20944128,
+          25.66887498,
+          98.17108479999996,
+          93.61589598
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "4a1446f847eaa852",
+    "file_name": "4a1446f847eaa852.jpg",
+    "local_path": "data/openimages_images/4a1446f847eaa852.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "airplane",
+        "bbox": [
+          28.8,
+          100.80000000000001,
+          995.2,
+          356.80002048
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "6d6bd9597f19e3f4",
+    "file_name": "6d6bd9597f19e3f4.jpg",
+    "local_path": "data/openimages_images/6d6bd9597f19e3f4.jpg",
+    "width": 1024,
+    "height": 575,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          180.1353216,
+          209.21686649999998,
+          667.88634624,
+          315.90360849999996
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "be0c7833864fa1d1",
+    "file_name": "be0c7833864fa1d1.jpg",
+    "local_path": "data/openimages_images/be0c7833864fa1d1.jpg",
+    "width": 1024,
+    "height": 683,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          74.005897216,
+          203.99335847999998,
+          879.008886784,
+          247.81418087000003
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "13117867bc5fc705",
+    "file_name": "13117867bc5fc705.jpg",
+    "local_path": "data/openimages_images/13117867bc5fc705.jpg",
+    "width": 1024,
+    "height": 768,
+    "objects": [
+      {
+        "category": "sheep",
+        "bbox": [
+          112.0,
+          0.0,
+          862.4,
+          768.0
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  },
+  {
+    "image_id": "d94a6b2ca406b901",
+    "file_name": "d94a6b2ca406b901.jpg",
+    "local_path": "data/openimages_images/d94a6b2ca406b901.jpg",
+    "width": 1024,
+    "height": 769,
+    "objects": [
+      {
+        "category": "car",
+        "bbox": [
+          0.0,
+          229.09792692,
+          947.0798336,
+          328.42707308
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          0.0,
+          0.0,
+          104.16275456,
+          331.63125
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          855.7370368,
+          94.52291923,
+          168.26296319999994,
+          198.65833077
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          897.4021632,
+          126.56458846,
+          126.59783679999998,
+          189.04582308
+        ]
+      },
+      {
+        "category": "person",
+        "bbox": [
+          903.8121984,
+          198.65833077000002,
+          120.18780159999994,
+          315.61041922999993
+        ]
+      }
+    ],
+    "source": "openimages_v5_validation"
+  }
+]

@@ -1,0 +1,34 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Downloaded third-party data
+data/images/
+data/openimages_images/
+data/annotations/
+
+# Private annotation working files
+results/e4_label_audit/manifest_private.json
+results/e4_label_audit/judgments_*.jsonl
+results/e4_label_audit/disagreements.txt
+
+# Logs, smoke tests, and temporary outputs
+*.log
+results/_smoke_*.json
+results/*_smoke.json
+
+# The manuscript remains local and is intentionally not released here
+paper/
+
+# Standalone TikZ build products
+figures/*.aux
+figures/*.log
+figures/*.out
+figures/*.xdv
+
+# Editors and OS
+.DS_Store
+*.swp
+*.swo

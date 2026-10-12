@@ -1,0 +1,1730 @@
+[
+  {
+    "image_id": 6397,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "cat",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "chair",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "chair",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 9679,
+    "category": "skateboard",
+    "word": "skateboard",
+    "donor_category": "backpack",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 9679,
+    "category": "book",
+    "word": "book",
+    "donor_category": "backpack",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "pair",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "book",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 14821,
+    "category": "bottle",
+    "word": "bottle",
+    "donor_category": "chair",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "le",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "le",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 24133,
+    "category": "surfboard",
+    "word": "surfboard",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "ing",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ing",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 28692,
+    "category": "skateboard",
+    "word": "skateboard",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 35887,
+    "category": "bowl",
+    "word": "container",
+    "donor_category": "bird",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "or",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 40842,
+    "category": "dining table",
+    "word": "desk",
+    "donor_category": "laptop",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 40948,
+    "category": "sports ball",
+    "word": "ball",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "ball",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 40948,
+    "category": "sports ball",
+    "word": "ball",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "ball",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "ball",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 40948,
+    "category": "sports ball",
+    "word": "ball",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "court",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "court",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 44309,
+    "category": "person",
+    "word": "passengers",
+    "donor_category": "boat",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 45392,
+    "category": "baseball glove",
+    "word": "baseball glove",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "ve",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 49985,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "room",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 51938,
+    "category": "skis",
+    "word": "ski",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "scene",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 78565,
+    "category": "person",
+    "word": "people",
+    "donor_category": "boat",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 92205,
+    "category": "stop sign",
+    "word": "stop sign",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 105349,
+    "category": "bicycle",
+    "word": "bicycle",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "cle",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ction",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 105349,
+    "category": "traffic light",
+    "word": "traffic light",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "light",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "light",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 120164,
+    "category": "clock",
+    "word": "clock",
+    "donor_category": "oven",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "metal",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "silver",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 120164,
+    "category": "clock",
+    "word": "clock",
+    "donor_category": "oven",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "clock",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "clock",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 132223,
+    "category": "remote",
+    "word": "remote",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "mouse",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 132223,
+    "category": "remote",
+    "word": "remote",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "remote",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 137271,
+    "category": "person",
+    "word": "people",
+    "donor_category": "kite",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 138078,
+    "category": "baseball glove",
+    "word": "baseball glove",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "ve",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "ve",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 147769,
+    "category": "baseball bat",
+    "word": "baseball bat",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "bat",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 169885,
+    "category": "pizza",
+    "word": "pizza",
+    "donor_category": "dining table",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "izza",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ies",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 170393,
+    "category": "parking meter",
+    "word": "parking meter",
+    "donor_category": "car",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "area",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 170393,
+    "category": "person",
+    "word": "people",
+    "donor_category": "car",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 172556,
+    "category": "surfboard",
+    "word": "surfboard",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "ing",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ing",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 173514,
+    "category": "snowboard",
+    "word": "snowboard",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 180650,
+    "category": "frisbee",
+    "word": "frisbee",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "e",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "e",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 181576,
+    "category": "sandwich",
+    "word": "sandwich",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "wich",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "wich",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 187495,
+    "category": "person",
+    "word": "drivers",
+    "donor_category": "fire hydrant",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "the",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "the",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 189267,
+    "category": "skis",
+    "word": "skis",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "and",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "\n",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 189267,
+    "category": "skis",
+    "word": "ski",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "eng",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "be",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 191280,
+    "category": "frisbee",
+    "word": "frisbee",
+    "donor_category": "dog",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 194956,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "teddy bear",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "chair",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 204650,
+    "category": "person",
+    "word": "people",
+    "donor_category": "airplane",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 204767,
+    "category": "bowl",
+    "word": "bowl",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "of",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "of",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 220446,
+    "category": "bowl",
+    "word": "bowl",
+    "donor_category": "toilet",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "l",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "l",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 221605,
+    "category": "dining table",
+    "word": "desk",
+    "donor_category": "laptop",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 221605,
+    "category": "dining table",
+    "word": "desk",
+    "donor_category": "laptop",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 229270,
+    "category": "chair",
+    "word": "chair",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "room",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "room",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 232597,
+    "category": "tie",
+    "word": "tie",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "jack",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "jack",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 233365,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "cket",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 241010,
+    "category": "car",
+    "word": "cars",
+    "donor_category": "traffic light",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 243896,
+    "category": "stop sign",
+    "word": "stop sign",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 243896,
+    "category": "stop sign",
+    "word": "stop sign",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "sign",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 243896,
+    "category": "skis",
+    "word": "ski",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "walk",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "be",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 243896,
+    "category": "snowboard",
+    "word": "snowboard",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "-",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 248163,
+    "category": "car",
+    "word": "cars",
+    "donor_category": "fire hydrant",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 265574,
+    "category": "sink",
+    "word": "sink",
+    "donor_category": "toilet",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "to",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "to",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 283190,
+    "category": "sink",
+    "word": "sink",
+    "donor_category": "oven",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "sink",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "wooden",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 295957,
+    "category": "surfboard",
+    "word": "surfboard",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 301491,
+    "category": "skis",
+    "word": "ski",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 305060,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 315923,
+    "category": "person",
+    "word": "man",
+    "donor_category": "motorcycle",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "person",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "person",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 320951,
+    "category": "sink",
+    "word": "sink",
+    "donor_category": "toilet",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "to",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "wooden",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 321118,
+    "category": "orange",
+    "word": "orange",
+    "donor_category": "laptop",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "small",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 337843,
+    "category": "skateboard",
+    "word": "skateboard",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 337843,
+    "category": "orange",
+    "word": "orange",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 340811,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 341010,
+    "category": "orange",
+    "word": "orange",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 341010,
+    "category": "cell phone",
+    "word": "cell phone",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "phone",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ular",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 346154,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 346154,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 353898,
+    "category": "bird",
+    "word": "birds",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "birds",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "birds",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 356400,
+    "category": "refrigerator",
+    "word": "refrigerator",
+    "donor_category": "sink",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "ation",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ation",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 359801,
+    "category": "chair",
+    "word": "chair",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 359801,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 361947,
+    "category": "person",
+    "word": "passengers",
+    "donor_category": "bus",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "passengers",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 361947,
+    "category": "person",
+    "word": "people",
+    "donor_category": "bus",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 361947,
+    "category": "person",
+    "word": "passengers",
+    "donor_category": "bus",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "bus",
+      "grounded_replacement": true
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "bus",
+      "grounded_replacement": true
+    }
+  },
+  {
+    "image_id": 365822,
+    "category": "microwave",
+    "word": "microwave",
+    "donor_category": "oven",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "ave",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "ave",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 367582,
+    "category": "dining table",
+    "word": "desk",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "k",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 368836,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "cket",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 373170,
+    "category": "dining table",
+    "word": "desks",
+    "donor_category": "chair",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "ks",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "ks",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 377611,
+    "category": "scissors",
+    "word": "scissors",
+    "donor_category": "orange",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "ional",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ions",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 383703,
+    "category": "knife",
+    "word": "knife",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "ight",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ight",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 383703,
+    "category": "broccoli",
+    "word": "broccoli",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "les",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 387463,
+    "category": "skateboard",
+    "word": "skateboard",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 412286,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "cket",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 412286,
+    "category": "sports ball",
+    "word": "ball",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "ball",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 413685,
+    "category": "tie",
+    "word": "tie",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "standing",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 417216,
+    "category": "skateboard",
+    "word": "skateboard",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 417216,
+    "category": "skateboard",
+    "word": "skateboard",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 420579,
+    "category": "skis",
+    "word": "skis",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "int",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "and",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 420579,
+    "category": "skis",
+    "word": "ski",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "a",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 423519,
+    "category": "person",
+    "word": "people",
+    "donor_category": "bus",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "people",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 425004,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "sandwich",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 425004,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "sandwich",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 452113,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 464130,
+    "category": "car",
+    "word": "cars",
+    "donor_category": "boat",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "boats",
+      "grounded_replacement": true
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "cars",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 468858,
+    "category": "chair",
+    "word": "chair",
+    "donor_category": "tv",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "chair",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 476569,
+    "category": "skis",
+    "word": "skis",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "int",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ins",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 476894,
+    "category": "tie",
+    "word": "ties",
+    "donor_category": "truck",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 483897,
+    "category": "orange",
+    "word": "orange",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "orange",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 484584,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "cket",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 484584,
+    "category": "sports ball",
+    "word": "ball",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "ball",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "sports",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 493862,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 536879,
+    "category": "couch",
+    "word": "couch",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "ouch",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "ouch",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 546962,
+    "category": "frisbee",
+    "word": "frisbee",
+    "donor_category": "dog",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "ke",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "e",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 547421,
+    "category": "skateboard",
+    "word": "skateboard",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "board",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": ",",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 554582,
+    "category": "tie",
+    "word": "ties",
+    "donor_category": "bench",
+    "transplant_donor": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "anks",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 566651,
+    "category": "tennis racket",
+    "word": "tennis racket",
+    "donor_category": "person",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "cket",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": true,
+      "new_word": "ck",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 574241,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "cat",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  },
+  {
+    "image_id": 574241,
+    "category": "dining table",
+    "word": "table",
+    "donor_category": "cat",
+    "transplant_donor": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    },
+    "transplant_shuffled": {
+      "flip": false,
+      "new_word": "table",
+      "grounded_replacement": false
+    }
+  }
+]
