@@ -1,0 +1,21 @@
+====================================================================== 
+(A) Paired image-clustered DeltaAUC
+======================================================================
+GTC             orig=0.635 corr=0.551 dAUC=-0.084 [-0.134,-0.033]
+alignment       orig=0.696 corr=0.682 dAUC=-0.014 [-0.052,+0.027]
+contrast dAUC(GTC)-dAUC(align) = -0.070 [-0.139,-0.006]
+====================================================================== 
+(B) Human-adjudicated label sensitivity
+======================================================================
+audit items joined: 200/200; ambiguous dropped: 5; labels changed vs caption-corrected: 58
+GTC             human-adj AUC=0.539 [0.461,0.623]  caption-corr (same items)=0.565  halluc: 96/1644
+alignment       human-adj AUC=0.660 [0.597,0.721]  caption-corr (same items)=0.684  halluc: 96/1644
+GTC+alignment   human-adj AUC=0.683 [0.620,0.745]  caption-corr (same items)=0.716  halluc: 96/1644
+====================================================================== 
+(C) Synthetic GT category-drop (model-free coupled probe vs alignment)
+======================================================================
+k=0.00 halluc=0.076  coupled(real GTC L20)=0.569 [0.569,0.569]  coupled(unif-GTC)=0.549 [0.549,0.549]  annotation-free(alignment)=0.684 [0.684,0.684]
+k=0.05 halluc=0.106  coupled(real GTC L20)=0.602 [0.566,0.644]  coupled(unif-GTC)=0.576 [0.541,0.615]  annotation-free(alignment)=0.639 [0.615,0.665]
+k=0.10 halluc=0.138  coupled(real GTC L20)=0.630 [0.596,0.667]  coupled(unif-GTC)=0.598 [0.568,0.636]  annotation-free(alignment)=0.613 [0.587,0.640]
+k=0.20 halluc=0.196  coupled(real GTC L20)=0.655 [0.630,0.692]  coupled(unif-GTC)=0.618 [0.590,0.649]  annotation-free(alignment)=0.583 [0.561,0.611]
+k=0.40 halluc=0.299  coupled(real GTC L20)=0.672 [0.647,0.698]  coupled(unif-GTC)=0.627 [0.598,0.654]  annotation-free(alignment)=0.565 [0.546,0.592]
